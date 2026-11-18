@@ -1,0 +1,1334 @@
+{
+  "test_name": "Banking Exam Prelims - Full Practice Test",
+  "test_type": "Full Length Mock Test",
+  "total_questions": 100,
+  "total_marks": 100,
+  "sections": [
+    {
+      "section_name": "English Language",
+      "total_questions": 30,
+      "total_marks": 30,
+      "questions": [
+        {
+          "id": 1,
+          "topic": "Reading Comprehension",
+          "passage": "Reading is one of the most effective ways to improve knowledge and communication skills. Regular reading increases vocabulary, improves concentration and develops critical thinking. In today's digital world, people often prefer short videos and social media posts. However, reading books and articles provides deeper understanding and encourages independent thinking.",
+          "question": "According to the passage, what is the primary benefit of developing good reading habits?",
+          "options": {
+            "A": "It improves physical strength",
+            "B": "It develops knowledge and thinking skills",
+            "C": "It reduces the need for education",
+            "D": "It increases social media usage"
+          },
+          "correct_answer": "B",
+          "explanation": "The passage highlights knowledge, concentration, vocabulary and critical thinking as benefits of reading."
+        },
+        {
+          "id": 2,
+          "topic": "Reading Comprehension",
+          "passage": "Reading is one of the most effective ways to improve knowledge and communication skills. Regular reading increases vocabulary, improves concentration and develops critical thinking. In today's digital world, people often prefer short videos and social media posts. However, reading books and articles provides deeper understanding and encourages independent thinking.",
+          "question": "Which of the following is NOT mentioned as a benefit of reading?",
+          "options": {
+            "A": "Improved vocabulary",
+            "B": "Better concentration",
+            "C": "Physical fitness",
+            "D": "Critical thinking"
+          },
+          "correct_answer": "C",
+          "explanation": "The passage mentions vocabulary, concentration and critical thinking, but not physical fitness."
+        },
+        {
+          "id": 3,
+          "topic": "Reading Comprehension",
+          "passage": "Reading is one of the most effective ways to improve knowledge and communication skills. Regular reading increases vocabulary, improves concentration and develops critical thinking. In today's digital world, people often prefer short videos and social media posts. However, reading books and articles provides deeper understanding and encourages independent thinking.",
+          "question": "What do people often prefer in today's digital world?",
+          "options": {
+            "A": "Printed newspapers only",
+            "B": "Short videos and social media posts",
+            "C": "Academic research papers",
+            "D": "Traditional libraries"
+          },
+          "correct_answer": "B",
+          "explanation": "The passage directly states that people often prefer short videos and social media posts."
+        },
+        {
+          "id": 4,
+          "topic": "Reading Comprehension",
+          "passage": "Reading is one of the most effective ways to improve knowledge and communication skills. Regular reading increases vocabulary, improves concentration and develops critical thinking. In today's digital world, people often prefer short videos and social media posts. However, reading books and articles provides deeper understanding and encourages independent thinking.",
+          "question": "What does the word 'independent' mean in the passage?",
+          "options": {
+            "A": "Depending on others",
+            "B": "Thinking for oneself",
+            "C": "Following instructions blindly",
+            "D": "Avoiding decisions"
+          },
+          "correct_answer": "B",
+          "explanation": "Independent thinking means forming opinions and making judgments without relying entirely on others."
+        },
+        {
+          "id": 5,
+          "topic": "Reading Comprehension",
+          "passage": "Reading is one of the most effective ways to improve knowledge and communication skills. Regular reading increases vocabulary, improves concentration and develops critical thinking. In today's digital world, people often prefer short videos and social media posts. However, reading books and articles provides deeper understanding and encourages independent thinking.",
+          "question": "What is the main idea of the passage?",
+          "options": {
+            "A": "Social media should be completely avoided",
+            "B": "Reading has several intellectual benefits",
+            "C": "Books are becoming less expensive",
+            "D": "Videos are better than books"
+          },
+          "correct_answer": "B",
+          "explanation": "The passage focuses on how reading improves knowledge, vocabulary and thinking abilities."
+        },
+        {
+          "id": 6,
+          "topic": "Cloze Test",
+          "question": "Education plays an important role ___ shaping an individual's future.",
+          "options": {
+            "A": "At",
+            "B": "On",
+            "C": "In",
+            "D": "By"
+          },
+          "correct_answer": "C",
+          "explanation": "The correct expression is 'role in shaping', which describes involvement in an activity."
+        },
+        {
+          "id": 7,
+          "topic": "Cloze Test",
+          "question": "She has been working here ___ 2020.",
+          "options": {
+            "A": "For",
+            "B": "Since",
+            "C": "From",
+            "D": "During"
+          },
+          "correct_answer": "B",
+          "explanation": "'Since' is used with a specific starting point in time."
+        },
+        {
+          "id": 8,
+          "topic": "Cloze Test",
+          "question": "Neither the teacher nor the students ___ present yesterday.",
+          "options": {
+            "A": "Was",
+            "B": "Is",
+            "C": "Were",
+            "D": "Has"
+          },
+          "correct_answer": "C",
+          "explanation": "With 'neither...nor', the verb agrees with the nearer subject. 'Students' takes 'were'."
+        },
+        {
+          "id": 9,
+          "topic": "Cloze Test",
+          "question": "He is senior ___ me in the company.",
+          "options": {
+            "A": "Than",
+            "B": "To",
+            "C": "From",
+            "D": "With"
+          },
+          "correct_answer": "B",
+          "explanation": "'Senior' is followed by the preposition 'to', not 'than'."
+        },
+        {
+          "id": 10,
+          "topic": "Cloze Test",
+          "question": "If I ___ rich, I would travel around the world.",
+          "options": {
+            "A": "Am",
+            "B": "Was",
+            "C": "Were",
+            "D": "Will be"
+          },
+          "correct_answer": "C",
+          "explanation": "In hypothetical conditional sentences, 'were' is conventionally used with all subjects."
+        },
+        {
+          "id": 11,
+          "topic": "Error Spotting",
+          "question": "Identify the part containing an error: She do not like coffee.",
+          "options": {
+            "A": "She",
+            "B": "Do not",
+            "C": "Like",
+            "D": "Coffee"
+          },
+          "correct_answer": "B",
+          "explanation": "'She' is singular, so the correct auxiliary is 'does'. The sentence should be 'She does not like coffee.'"
+        },
+        {
+          "id": 12,
+          "topic": "Error Spotting",
+          "question": "Identify the part containing an error: Each of the boys have a bicycle.",
+          "options": {
+            "A": "Each",
+            "B": "Of the boys",
+            "C": "Have",
+            "D": "A bicycle"
+          },
+          "correct_answer": "C",
+          "explanation": "'Each' is singular and requires 'has'."
+        },
+        {
+          "id": 13,
+          "topic": "Error Spotting",
+          "question": "Identify the part containing an error: He is good in mathematics.",
+          "options": {
+            "A": "He",
+            "B": "Is",
+            "C": "Good in",
+            "D": "Mathematics"
+          },
+          "correct_answer": "C",
+          "explanation": "The correct expression is 'good at mathematics'."
+        },
+        {
+          "id": 14,
+          "topic": "Error Spotting",
+          "question": "Identify the part containing an error: The news are very interesting.",
+          "options": {
+            "A": "The",
+            "B": "News",
+            "C": "Are",
+            "D": "Very interesting"
+          },
+          "correct_answer": "C",
+          "explanation": "'News' is a singular noun and takes 'is'."
+        },
+        {
+          "id": 15,
+          "topic": "Error Spotting",
+          "question": "Identify the part containing an error: I prefer tea than coffee.",
+          "options": {
+            "A": "I",
+            "B": "Prefer",
+            "C": "Tea than",
+            "D": "Coffee"
+          },
+          "correct_answer": "C",
+          "explanation": "'Prefer' takes 'to' when comparing two things. The correct expression is 'prefer tea to coffee'."
+        },
+        {
+          "id": 16,
+          "topic": "Sentence Improvement",
+          "question": "Choose the improved version: He is more taller than his brother.",
+          "options": {
+            "A": "He is tallest than his brother",
+            "B": "He is taller than his brother",
+            "C": "He is more tall than his brother",
+            "D": "He is most taller than his brother"
+          },
+          "correct_answer": "B",
+          "explanation": "'Taller' is already the comparative form of 'tall'. Using 'more' is unnecessary."
+        },
+        {
+          "id": 17,
+          "topic": "Sentence Improvement",
+          "question": "Choose the improved version: Despite of his hard work, he failed.",
+          "options": {
+            "A": "Despite his hard work, he failed",
+            "B": "Despite for his hard work, he failed",
+            "C": "Despite with his hard work, he failed",
+            "D": "Despite to his hard work, he failed"
+          },
+          "correct_answer": "A",
+          "explanation": "'Despite' is not followed by 'of'. The correct construction is 'despite his hard work'."
+        },
+        {
+          "id": 18,
+          "topic": "Sentence Improvement",
+          "question": "Choose the improved version: I am looking forward to meet you.",
+          "options": {
+            "A": "I am looking forward to meeting you",
+            "B": "I am looking forward for meet you",
+            "C": "I am looking forward meeting you",
+            "D": "I am looking forward to met you"
+          },
+          "correct_answer": "A",
+          "explanation": "The expression 'look forward to' is followed by a noun or gerund (verb + ing)."
+        },
+        {
+          "id": 19,
+          "topic": "Para Jumbles",
+          "question": "Arrange the sentences in the correct order: P. Finally, he submitted the report. Q. He collected all the necessary information. R. First, he received the assignment. S. Then, he analysed the data.",
+          "options": {
+            "A": "R-Q-S-P",
+            "B": "Q-R-P-S",
+            "C": "S-Q-R-P",
+            "D": "P-R-Q-S"
+          },
+          "correct_answer": "A",
+          "explanation": "The logical sequence is receiving the assignment, collecting information, analysing data and submitting the report."
+        },
+        {
+          "id": 20,
+          "topic": "Para Jumbles",
+          "question": "Arrange the sentences in the correct order: P. Trees provide oxygen. Q. Therefore, planting trees is essential. R. Trees also absorb carbon dioxide. S. They help maintain ecological balance.",
+          "options": {
+            "A": "P-R-S-Q",
+            "B": "Q-P-S-R",
+            "C": "R-Q-P-S",
+            "D": "S-P-Q-R"
+          },
+          "correct_answer": "A",
+          "explanation": "The passage introduces the benefits of trees before concluding that planting them is essential."
+        },
+        {
+          "id": 21,
+          "topic": "Fillers",
+          "question": "The manager asked the employees to ___ the meeting on time.",
+          "options": {
+            "A": "Attend",
+            "B": "Attends",
+            "C": "Attending",
+            "D": "Attended"
+          },
+          "correct_answer": "A",
+          "explanation": "The infinitive 'to' is followed by the base form of the verb."
+        },
+        {
+          "id": 22,
+          "topic": "Fillers",
+          "question": "Although it was raining, they ___ playing football.",
+          "options": {
+            "A": "Continued",
+            "B": "Stopped",
+            "C": "Avoided",
+            "D": "Prevented"
+          },
+          "correct_answer": "A",
+          "explanation": "'Continued' correctly expresses that they kept playing despite the rain."
+        },
+        {
+          "id": 23,
+          "topic": "Double Fillers",
+          "question": "The employee was ___ for his honesty and ___ for his dedication.",
+          "options": {
+            "A": "Punished, ignored",
+            "B": "Respected, admired",
+            "C": "Rejected, criticised",
+            "D": "Blamed, disliked"
+          },
+          "correct_answer": "B",
+          "explanation": "Both 'respected' and 'admired' convey positive appreciation."
+        },
+        {
+          "id": 24,
+          "topic": "Double Fillers",
+          "question": "The instructions were so ___ that everyone understood them ___.",
+          "options": {
+            "A": "Confusing, hardly",
+            "B": "Clear, easily",
+            "C": "Difficult, rarely",
+            "D": "Complex, incorrectly"
+          },
+          "correct_answer": "B",
+          "explanation": "'Clear' and 'easily' form the only logically consistent combination."
+        },
+        {
+          "id": 25,
+          "topic": "Phrase Replacement",
+          "question": "Choose the correct replacement for the phrase 'At the eleventh hour'.",
+          "options": {
+            "A": "Very early",
+            "B": "At the last moment",
+            "C": "After a long time",
+            "D": "At regular intervals"
+          },
+          "correct_answer": "B",
+          "explanation": "'At the eleventh hour' means doing something at the last possible moment."
+        },
+        {
+          "id": 26,
+          "topic": "Phrase Replacement",
+          "question": "Choose the meaning of 'A blessing in disguise'.",
+          "options": {
+            "A": "A hidden danger",
+            "B": "An unexpected benefit",
+            "C": "A serious mistake",
+            "D": "A false promise"
+          },
+          "correct_answer": "B",
+          "explanation": "It describes something that initially seems bad but eventually produces a positive result."
+        },
+        {
+          "id": 27,
+          "topic": "Vocabulary - Synonyms",
+          "question": "Choose the synonym of 'Diligent'.",
+          "options": {
+            "A": "Lazy",
+            "B": "Careless",
+            "C": "Hardworking",
+            "D": "Weak"
+          },
+          "correct_answer": "C",
+          "explanation": "Diligent means showing careful and persistent effort in one's work."
+        },
+        {
+          "id": 28,
+          "topic": "Vocabulary - Antonyms",
+          "question": "Choose the antonym of 'Expand'.",
+          "options": {
+            "A": "Increase",
+            "B": "Enlarge",
+            "C": "Extend",
+            "D": "Contract"
+          },
+          "correct_answer": "D",
+          "explanation": "Expand means to increase in size, while contract means to become smaller."
+        },
+        {
+          "id": 29,
+          "topic": "Word Usage",
+          "question": "Choose the sentence in which the word 'Principal' is used correctly.",
+          "options": {
+            "A": "The principal of the college addressed the students",
+            "B": "The principle of the college addressed the students",
+            "C": "He is the principal reason of his success",
+            "D": "She followed the principal of honesty"
+          },
+          "correct_answer": "A",
+          "explanation": "'Principal' means the head of an institution. 'Principle' refers to a rule or belief."
+        },
+        {
+          "id": 30,
+          "topic": "Spelling",
+          "question": "Choose the correctly spelled word.",
+          "options": {
+            "A": "Maintanance",
+            "B": "Maintenance",
+            "C": "Maintainance",
+            "D": "Maintenence"
+          },
+          "correct_answer": "B",
+          "explanation": "Maintenance is the correct spelling. It refers to the process of keeping something in good condition."
+        }
+      ]
+    },
+    {
+      "section_name": "Reasoning Ability",
+      "total_questions": 35,
+      "total_marks": 35,
+      "questions": [
+        {
+          "id": 1,
+          "topic": "Syllogism",
+          "question": "Statements: All roses are flowers. Some flowers fade quickly. Conclusions: I. Some roses fade quickly. II. All roses are flowers.",
+          "options": {
+            "A": "Only I follows",
+            "B": "Only II follows",
+            "C": "Both I and II follow",
+            "D": "Neither I nor II follows"
+          },
+          "correct_answer": "B",
+          "explanation": "Conclusion II repeats the given statement. The flowers that fade quickly are not necessarily roses."
+        },
+        {
+          "id": 2,
+          "topic": "Syllogism",
+          "question": "Statements: No pen is a pencil. All pencils are wooden. Conclusions: I. No pen is wooden. II. Some wooden things are pencils.",
+          "options": {
+            "A": "Only I follows",
+            "B": "Only II follows",
+            "C": "Both follow",
+            "D": "Neither follows"
+          },
+          "correct_answer": "B",
+          "explanation": "All pencils are wooden, so pencils are wooden things. Nothing establishes whether pens are wooden."
+        },
+        {
+          "id": 3,
+          "topic": "Inequality",
+          "question": "If A > B ≥ C = D < E, which is definitely true?",
+          "options": {
+            "A": "A > D",
+            "B": "B < E",
+            "C": "A < E",
+            "D": "C > A"
+          },
+          "correct_answer": "A",
+          "explanation": "Since A > B and B ≥ C, while C = D, A must be greater than D."
+        },
+        {
+          "id": 4,
+          "topic": "Inequality",
+          "question": "If P ≤ Q < R = S, which conclusion is definitely true?",
+          "options": {
+            "A": "P > S",
+            "B": "Q = S",
+            "C": "P < S",
+            "D": "R < P"
+          },
+          "correct_answer": "C",
+          "explanation": "P is no greater than Q, and Q is less than R; therefore P is less than S."
+        },
+        {
+          "id": 5,
+          "topic": "Coding-Decoding",
+          "question": "If CAT is coded as DBU, how is DOG coded using the same rule?",
+          "options": {
+            "A": "EPH",
+            "B": "EOG",
+            "C": "CNG",
+            "D": "FPH"
+          },
+          "correct_answer": "A",
+          "explanation": "Each letter is shifted forward by one: D→E, O→P and G→H."
+        },
+        {
+          "id": 6,
+          "topic": "Coding-Decoding",
+          "question": "In a code, TABLE is written as ELBAT. How is CHAIR written?",
+          "options": {
+            "A": "RIAHC",
+            "B": "R I A H C",
+            "C": "CHAIR",
+            "D": "HCAIR"
+          },
+          "correct_answer": "A",
+          "explanation": "The word is written in reverse order: CHAIR becomes RIAHC."
+        },
+        {
+          "id": 7,
+          "topic": "Blood Relations",
+          "question": "A is the mother of B. C is the father of A. How is C related to B?",
+          "options": {
+            "A": "Paternal grandfather",
+            "B": "Maternal grandfather",
+            "C": "Uncle",
+            "D": "Brother"
+          },
+          "correct_answer": "B",
+          "explanation": "C is A's father and A is B's mother, so C is B's maternal grandfather."
+        },
+        {
+          "id": 8,
+          "topic": "Blood Relations",
+          "question": "Pointing to a woman, Ravi says, 'She is the daughter of my mother's only son.' How is the woman related to Ravi?",
+          "options": {
+            "A": "Sister",
+            "B": "Daughter",
+            "C": "Mother",
+            "D": "Niece"
+          },
+          "correct_answer": "B",
+          "explanation": "Ravi's mother's only son is Ravi himself; his daughter is the woman."
+        },
+        {
+          "id": 9,
+          "topic": "Direction and Distance",
+          "question": "A person walks 5 km north, then 3 km east, then 5 km south. How far and in which direction is the person from the starting point?",
+          "options": {
+            "A": "3 km east",
+            "B": "3 km west",
+            "C": "5 km north",
+            "D": "8 km east"
+          },
+          "correct_answer": "A",
+          "explanation": "The north and south movements cancel, leaving the person 3 km east."
+        },
+        {
+          "id": 10,
+          "topic": "Direction and Distance",
+          "question": "Meera faces east. She turns left, then turns left again. Which direction is she facing?",
+          "options": {
+            "A": "North",
+            "B": "South",
+            "C": "East",
+            "D": "West"
+          },
+          "correct_answer": "D",
+          "explanation": "A left turn from east faces north; a second left turn faces west."
+        },
+        {
+          "id": 11,
+          "topic": "Number/Letter Series",
+          "question": "Find the next number: 3, 6, 12, 24, 48, __.",
+          "options": {
+            "A": "72",
+            "B": "84",
+            "C": "96",
+            "D": "108"
+          },
+          "correct_answer": "C",
+          "explanation": "Each term is multiplied by 2; 48 × 2 = 96."
+        },
+        {
+          "id": 12,
+          "topic": "Number/Letter Series",
+          "question": "Find the missing letter: A, C, F, J, O, __.",
+          "options": {
+            "A": "S",
+            "B": "T",
+            "C": "U",
+            "D": "V"
+          },
+          "correct_answer": "C",
+          "explanation": "The letter jumps are +2, +3, +4, +5; the next jump is +6, giving U."
+        },
+        {
+          "id": 13,
+          "topic": "Linear Seating Arrangement",
+          "question": "Six people A, B, C, D, E and F sit in a row facing north. A is at the left end. B sits immediately to the right of A. F is at the right end. C sits immediately to the left of F. D sits between B and E. Who sits third from the left?",
+          "options": {
+            "A": "B",
+            "B": "D",
+            "C": "E",
+            "D": "C"
+          },
+          "correct_answer": "B",
+          "explanation": "The order is A-B-D-E-C-F, so D is third from the left."
+        },
+        {
+          "id": 14,
+          "topic": "Linear Seating Arrangement",
+          "question": "Five people P, Q, R, S and T sit in a row facing north. P is at the left end, T at the right end, Q is immediately right of P, and S is immediately left of T. Who sits in the middle?",
+          "options": {
+            "A": "Q",
+            "B": "R",
+            "C": "S",
+            "D": "P"
+          },
+          "correct_answer": "B",
+          "explanation": "The order is P-Q-R-S-T, so R occupies the middle seat."
+        },
+        {
+          "id": 15,
+          "topic": "Circular Seating Arrangement",
+          "question": "Four people A, B, C and D sit around a circular table facing the centre. A sits opposite C. B sits immediately clockwise from A. Who sits opposite B?",
+          "options": {
+            "A": "A",
+            "B": "C",
+            "C": "D",
+            "D": "Cannot be determined"
+          },
+          "correct_answer": "C",
+          "explanation": "With A opposite C and B adjacent clockwise to A, D occupies the seat opposite B."
+        },
+        {
+          "id": 16,
+          "topic": "Circular Seating Arrangement",
+          "question": "Six people sit around a circular table facing the centre. If X is opposite Y, how many people sit between X and Y along either direction?",
+          "options": {
+            "A": "1",
+            "B": "2",
+            "C": "3",
+            "D": "4"
+          },
+          "correct_answer": "B",
+          "explanation": "In a six-person circle, opposite seats have two people between them on either side."
+        },
+        {
+          "id": 17,
+          "topic": "Floor Puzzle",
+          "question": "Five people live on floors 1 to 5, one per floor. Anu lives above Binu. Chitra lives immediately above Binu. Deepa lives on floor 5. Esha lives on floor 1. Who lives on floor 3?",
+          "options": {
+            "A": "Anu",
+            "B": "Binu",
+            "C": "Chitra",
+            "D": "Deepa"
+          },
+          "correct_answer": "C",
+          "explanation": "Esha is on 1 and Deepa on 5. Binu must be below Chitra, with Anu above Binu; the consistent arrangement is Esha-Binu-Chitra-Anu-Deepa."
+        },
+        {
+          "id": 18,
+          "topic": "Box Puzzle",
+          "question": "Four boxes P, Q, R and S are stacked. P is above Q. R is below Q. S is above P. Which box is at the top?",
+          "options": {
+            "A": "P",
+            "B": "Q",
+            "C": "R",
+            "D": "S"
+          },
+          "correct_answer": "D",
+          "explanation": "The order from top to bottom is S-P-Q-R."
+        },
+        {
+          "id": 19,
+          "topic": "Scheduling Puzzle",
+          "question": "Four tasks A, B, C and D are scheduled Monday to Thursday, one per day. A is on Monday. C is immediately after B. D is on Thursday. On which day is B?",
+          "options": {
+            "A": "Monday",
+            "B": "Tuesday",
+            "C": "Wednesday",
+            "D": "Thursday"
+          },
+          "correct_answer": "B",
+          "explanation": "A is Monday and D is Thursday. B and C must occupy Tuesday and Wednesday respectively."
+        },
+        {
+          "id": 20,
+          "topic": "Scheduling Puzzle",
+          "question": "Three interviews X, Y and Z are held at 10 AM, 11 AM and noon. X is before Z. Y is at noon. When is X?",
+          "options": {
+            "A": "10 AM",
+            "B": "11 AM",
+            "C": "Noon",
+            "D": "Cannot be determined"
+          },
+          "correct_answer": "A",
+          "explanation": "Y is at noon, leaving 10 AM and 11 AM for X and Z. Since X is before Z, X is at 10 AM."
+        },
+        {
+          "id": 21,
+          "topic": "Ranking",
+          "question": "In a class, Arun ranks 12th from the top and 18th from the bottom. How many students are in the class?",
+          "options": {
+            "A": "28",
+            "B": "29",
+            "C": "30",
+            "D": "31"
+          },
+          "correct_answer": "B",
+          "explanation": "Total = 12 + 18 − 1 = 29; Arun is counted from both ends."
+        },
+        {
+          "id": 22,
+          "topic": "Order and Ranking",
+          "question": "Five friends are arranged by height. K is taller than L but shorter than M. N is shorter than L. O is taller than M. Who is the tallest?",
+          "options": {
+            "A": "K",
+            "B": "M",
+            "C": "N",
+            "D": "O"
+          },
+          "correct_answer": "D",
+          "explanation": "The order is O > M > K > L > N, so O is tallest."
+        },
+        {
+          "id": 23,
+          "topic": "Alphanumeric Series",
+          "question": "How many vowels are there in the word EDUCATION?",
+          "options": {
+            "A": "4",
+            "B": "5",
+            "C": "6",
+            "D": "7"
+          },
+          "correct_answer": "B",
+          "explanation": "The vowels are E, U, A, I and O: five in total."
+        },
+        {
+          "id": 24,
+          "topic": "Logical Reasoning",
+          "question": "If all Bloops are Razzies and all Razzies are Lazzies, which statement must be true?",
+          "options": {
+            "A": "All Lazzies are Bloops",
+            "B": "All Bloops are Lazzies",
+            "C": "No Bloops are Lazzies",
+            "D": "Some Lazzies are not Razzies"
+          },
+          "correct_answer": "B",
+          "explanation": "The inclusion chain Bloops ⊆ Razzies ⊆ Lazzies means every Bloop is a Lazzie."
+        },
+        {
+          "id": 25,
+          "topic": "Inequality",
+          "question": "Given M > N, N = O and O ≥ P, which is definitely true?",
+          "options": {
+            "A": "M > P",
+            "B": "P > M",
+            "C": "N < P",
+            "D": "M = O"
+          },
+          "correct_answer": "A",
+          "explanation": "M is greater than N, which equals O, and O is at least P; hence M > P."
+        },
+        {
+          "id": 26,
+          "topic": "Coding-Decoding",
+          "question": "If ROAD is coded as URDG (each letter shifted three places forward), how is MILK coded?",
+          "options": {
+            "A": "PLON",
+            "B": "NJML",
+            "C": "OLMN",
+            "D": "PKON"
+          },
+          "correct_answer": "A",
+          "explanation": "Shift each letter forward three places: M→P, I→L, L→O and K→N."
+        },
+        {
+          "id": 27,
+          "topic": "Direction and Distance",
+          "question": "A man walks 4 km west and then 4 km north. In which direction is he from his starting point?",
+          "options": {
+            "A": "North-east",
+            "B": "North-west",
+            "C": "South-west",
+            "D": "South-east"
+          },
+          "correct_answer": "B",
+          "explanation": "Moving west and north places him to the north-west of the starting point."
+        },
+        {
+          "id": 28,
+          "topic": "Blood Relations",
+          "question": "A is the brother of B. B is the sister of C. How is A related to C?",
+          "options": {
+            "A": "Brother",
+            "B": "Sister",
+            "C": "Father",
+            "D": "Uncle"
+          },
+          "correct_answer": "A",
+          "explanation": "A is male and shares the same sibling relationship with C, so A is C's brother."
+        },
+        {
+          "id": 29,
+          "topic": "Seating Arrangement",
+          "question": "Four people W, X, Y and Z sit in a row facing north. W is left of X, Y is right of X, and Z is right of Y. Who is at the extreme right?",
+          "options": {
+            "A": "W",
+            "B": "X",
+            "C": "Y",
+            "D": "Z"
+          },
+          "correct_answer": "D",
+          "explanation": "The order is W-X-Y-Z, so Z is at the extreme right."
+        },
+        {
+          "id": 30,
+          "topic": "Floor Puzzle",
+          "question": "R is on the second floor. S lives immediately above R. T lives below R. Which floor does S occupy?",
+          "options": {
+            "A": "First",
+            "B": "Second",
+            "C": "Third",
+            "D": "Fourth"
+          },
+          "correct_answer": "C",
+          "explanation": "S is immediately above floor 2, so S is on floor 3."
+        },
+        {
+          "id": 31,
+          "topic": "Data/Logical Sufficiency",
+          "question": "Question: Is x even? Statements: I. x is divisible by 4. II. x is an integer.",
+          "options": {
+            "A": "I alone is sufficient",
+            "B": "II alone is sufficient",
+            "C": "Both together are sufficient, but neither alone",
+            "D": "Each alone is sufficient"
+          },
+          "correct_answer": "A",
+          "explanation": "A number divisible by 4 is even, so statement I alone answers the question."
+        },
+        {
+          "id": 32,
+          "topic": "Data/Logical Sufficiency",
+          "question": "Question: What is the value of y? Statements: I. y + 3 = 10. II. y is a positive integer.",
+          "options": {
+            "A": "I alone is sufficient",
+            "B": "II alone is sufficient",
+            "C": "Both together are required",
+            "D": "Neither is sufficient"
+          },
+          "correct_answer": "A",
+          "explanation": "Statement I gives y = 7 directly."
+        },
+        {
+          "id": 33,
+          "topic": "Scheduling Puzzle",
+          "question": "Five presentations are scheduled in order. A is before B, C is after B, and D is before A. Which must be true?",
+          "options": {
+            "A": "A is before D",
+            "B": "D is before B",
+            "C": "C is before A",
+            "D": "B is before D"
+          },
+          "correct_answer": "B",
+          "explanation": "D is before A, A is before B, and B is before C; therefore D is before B."
+        },
+        {
+          "id": 34,
+          "topic": "Number Series",
+          "question": "Find the missing number: 2, 5, 10, 17, 26, __.",
+          "options": {
+            "A": "35",
+            "B": "36",
+            "C": "37",
+            "D": "38"
+          },
+          "correct_answer": "C",
+          "explanation": "The differences are 3, 5, 7 and 9; the next difference is 11, giving 37."
+        },
+        {
+          "id": 35,
+          "topic": "Syllogism",
+          "question": "Statements: Some cats are dogs. All dogs are animals. Conclusions: I. Some cats are animals. II. All animals are dogs.",
+          "options": {
+            "A": "Only I follows",
+            "B": "Only II follows",
+            "C": "Both follow",
+            "D": "Neither follows"
+          },
+          "correct_answer": "A",
+          "explanation": "The cats that are dogs must be animals. The second conclusion reverses the given relationship."
+        }
+      ]
+    },
+    {
+      "section_name": "Quantitative Aptitude",
+      "total_questions": 35,
+      "total_marks": 35,
+      "questions": [
+        {
+          "id": 1,
+          "topic": "Simplification",
+          "question": "Evaluate: 48 ÷ 6 × 3 + 5.",
+          "options": {
+            "A": "24",
+            "B": "29",
+            "C": "13",
+            "D": "19"
+          },
+          "correct_answer": "B",
+          "explanation": "Division and multiplication are evaluated from left to right: 8 × 3 + 5 = 29."
+        },
+        {
+          "id": 2,
+          "topic": "Simplification",
+          "question": "Find 25% of 640.",
+          "options": {
+            "A": "120",
+            "B": "140",
+            "C": "160",
+            "D": "180"
+          },
+          "correct_answer": "C",
+          "explanation": "25% is one-fourth; 640 ÷ 4 = 160."
+        },
+        {
+          "id": 3,
+          "topic": "Approximation",
+          "question": "Approximate: 39.8 × 5.1.",
+          "options": {
+            "A": "180",
+            "B": "200",
+            "C": "220",
+            "D": "240"
+          },
+          "correct_answer": "B",
+          "explanation": "Round 39.8 to 40 and 5.1 to 5; 40 × 5 = 200."
+        },
+        {
+          "id": 4,
+          "topic": "Number Series",
+          "question": "Find the next number: 4, 9, 19, 39, 79, __.",
+          "options": {
+            "A": "149",
+            "B": "158",
+            "C": "159",
+            "D": "169"
+          },
+          "correct_answer": "C",
+          "explanation": "Each term is multiplied by 2 and then 1 is added; 79 × 2 + 1 = 159."
+        },
+        {
+          "id": 5,
+          "topic": "Number Series",
+          "question": "Find the missing number: 7, 14, 28, 56, __.",
+          "options": {
+            "A": "98",
+            "B": "112",
+            "C": "120",
+            "D": "124"
+          },
+          "correct_answer": "B",
+          "explanation": "Each term is doubled; 56 × 2 = 112."
+        },
+        {
+          "id": 6,
+          "topic": "Quadratic Equations",
+          "question": "Find the larger root of x² − 7x + 12 = 0.",
+          "options": {
+            "A": "2",
+            "B": "3",
+            "C": "4",
+            "D": "6"
+          },
+          "correct_answer": "C",
+          "explanation": "Factorising gives (x − 3)(x − 4) = 0; the larger root is 4."
+        },
+        {
+          "id": 7,
+          "topic": "Quadratic Equations",
+          "question": "Find the roots of x² − 9 = 0.",
+          "options": {
+            "A": "3 and 9",
+            "B": "−3 and 3",
+            "C": "−9 and 9",
+            "D": "0 and 9"
+          },
+          "correct_answer": "B",
+          "explanation": "x² = 9, so x = ±3."
+        },
+        {
+          "id": 8,
+          "topic": "Percentage",
+          "question": "A number increases from 200 to 250. What is the percentage increase?",
+          "options": {
+            "A": "20%",
+            "B": "25%",
+            "C": "30%",
+            "D": "50%"
+          },
+          "correct_answer": "B",
+          "explanation": "Increase = 50; percentage increase = 50/200 × 100 = 25%."
+        },
+        {
+          "id": 9,
+          "topic": "Profit and Loss",
+          "question": "An article is bought for ₹800 and sold for ₹920. Find the profit percentage.",
+          "options": {
+            "A": "10%",
+            "B": "12%",
+            "C": "15%",
+            "D": "20%"
+          },
+          "correct_answer": "C",
+          "explanation": "Profit = ₹120; profit percentage = 120/800 × 100 = 15%."
+        },
+        {
+          "id": 10,
+          "topic": "Profit and Loss",
+          "question": "An item marked at ₹1,000 is sold at a 10% discount. What is its selling price?",
+          "options": {
+            "A": "₹800",
+            "B": "₹850",
+            "C": "₹900",
+            "D": "₹950"
+          },
+          "correct_answer": "C",
+          "explanation": "Discount = ₹100; selling price = ₹1,000 − ₹100 = ₹900."
+        },
+        {
+          "id": 11,
+          "topic": "Ratio",
+          "question": "The ratio of A to B is 3:5 and their total is 64. Find A.",
+          "options": {
+            "A": "18",
+            "B": "24",
+            "C": "30",
+            "D": "40"
+          },
+          "correct_answer": "B",
+          "explanation": "Total parts = 8; one part = 64/8 = 8; A = 3 × 8 = 24."
+        },
+        {
+          "id": 12,
+          "topic": "Average",
+          "question": "Find the average of 12, 18, 20, 25 and 25.",
+          "options": {
+            "A": "18",
+            "B": "19",
+            "C": "20",
+            "D": "21"
+          },
+          "correct_answer": "C",
+          "explanation": "The sum is 100; 100 ÷ 5 = 20."
+        },
+        {
+          "id": 13,
+          "topic": "Simple Interest",
+          "question": "Find the simple interest on ₹5,000 at 8% per annum for 2 years.",
+          "options": {
+            "A": "₹400",
+            "B": "₹600",
+            "C": "₹800",
+            "D": "₹1,000"
+          },
+          "correct_answer": "C",
+          "explanation": "SI = PRT/100 = 5000 × 8 × 2 / 100 = ₹800."
+        },
+        {
+          "id": 14,
+          "topic": "Compound Interest",
+          "question": "Find the amount on ₹1,000 at 10% compound interest per annum for 2 years.",
+          "options": {
+            "A": "₹1,100",
+            "B": "₹1,200",
+            "C": "₹1,210",
+            "D": "₹1,220"
+          },
+          "correct_answer": "C",
+          "explanation": "Amount = 1000 × 1.1² = ₹1,210."
+        },
+        {
+          "id": 15,
+          "topic": "Time and Work",
+          "question": "A can complete a job in 10 days and B in 15 days. How long will they take working together?",
+          "options": {
+            "A": "5 days",
+            "B": "6 days",
+            "C": "8 days",
+            "D": "12 days"
+          },
+          "correct_answer": "B",
+          "explanation": "Combined daily work = 1/10 + 1/15 = 1/6; they need 6 days."
+        },
+        {
+          "id": 16,
+          "topic": "Time and Work",
+          "question": "12 workers complete a job in 8 days. How many days will 16 workers take at the same rate?",
+          "options": {
+            "A": "4",
+            "B": "5",
+            "C": "6",
+            "D": "8"
+          },
+          "correct_answer": "C",
+          "explanation": "Total work = 12 × 8 = 96 worker-days; 96/16 = 6 days."
+        },
+        {
+          "id": 17,
+          "topic": "Speed, Time and Distance",
+          "question": "A car travels 150 km in 3 hours. Find its average speed.",
+          "options": {
+            "A": "40 km/h",
+            "B": "45 km/h",
+            "C": "50 km/h",
+            "D": "60 km/h"
+          },
+          "correct_answer": "C",
+          "explanation": "Speed = distance/time = 150/3 = 50 km/h."
+        },
+        {
+          "id": 18,
+          "topic": "Speed, Time and Distance",
+          "question": "A train 120 m long crosses a pole in 6 seconds. Find its speed in km/h.",
+          "options": {
+            "A": "60",
+            "B": "66",
+            "C": "72",
+            "D": "80"
+          },
+          "correct_answer": "C",
+          "explanation": "Speed = 120/6 = 20 m/s; 20 × 18/5 = 72 km/h."
+        },
+        {
+          "id": 19,
+          "topic": "Mixtures",
+          "question": "A 20-litre mixture contains milk and water in the ratio 3:1. How much water is present?",
+          "options": {
+            "A": "4 L",
+            "B": "5 L",
+            "C": "10 L",
+            "D": "15 L"
+          },
+          "correct_answer": "B",
+          "explanation": "There are 4 equal parts; water is 1 part, so 20/4 = 5 L."
+        },
+        {
+          "id": 20,
+          "topic": "Mixtures",
+          "question": "A 30-litre solution contains 20% acid. How much acid does it contain?",
+          "options": {
+            "A": "3 L",
+            "B": "5 L",
+            "C": "6 L",
+            "D": "8 L"
+          },
+          "correct_answer": "C",
+          "explanation": "20% of 30 = 6 litres."
+        },
+        {
+          "id": 21,
+          "topic": "Mensuration",
+          "question": "Find the area of a rectangle with length 12 cm and breadth 7 cm.",
+          "options": {
+            "A": "19 cm²",
+            "B": "38 cm²",
+            "C": "84 cm²",
+            "D": "96 cm²"
+          },
+          "correct_answer": "C",
+          "explanation": "Area = length × breadth = 12 × 7 = 84 cm²."
+        },
+        {
+          "id": 22,
+          "topic": "Mensuration",
+          "question": "Find the circumference of a circle with radius 7 cm. Use π = 22/7.",
+          "options": {
+            "A": "22 cm",
+            "B": "44 cm",
+            "C": "49 cm",
+            "D": "154 cm"
+          },
+          "correct_answer": "B",
+          "explanation": "Circumference = 2πr = 2 × 22/7 × 7 = 44 cm."
+        },
+        {
+          "id": 23,
+          "topic": "Data Interpretation",
+          "question": "A shop sold 120 pens on Monday and 150 on Tuesday. How many more pens were sold on Tuesday?",
+          "options": {
+            "A": "20",
+            "B": "25",
+            "C": "30",
+            "D": "35"
+          },
+          "correct_answer": "C",
+          "explanation": "Difference = 150 − 120 = 30 pens."
+        },
+        {
+          "id": 24,
+          "topic": "Data Interpretation",
+          "question": "A company's sales were ₹40 lakh in 2023 and ₹50 lakh in 2024. What was the percentage increase?",
+          "options": {
+            "A": "20%",
+            "B": "25%",
+            "C": "30%",
+            "D": "40%"
+          },
+          "correct_answer": "B",
+          "explanation": "Increase = 10 lakh; 10/40 × 100 = 25%."
+        },
+        {
+          "id": 25,
+          "topic": "Data Interpretation",
+          "question": "In a pie chart, a category represents 25% of a total of 800 students. How many students are in that category?",
+          "options": {
+            "A": "100",
+            "B": "150",
+            "C": "200",
+            "D": "250"
+          },
+          "correct_answer": "C",
+          "explanation": "25% of 800 = 200 students."
+        },
+        {
+          "id": 26,
+          "topic": "Data Interpretation",
+          "question": "A bar chart shows production of 80, 100 and 120 units in three months. What is the average monthly production?",
+          "options": {
+            "A": "90",
+            "B": "100",
+            "C": "110",
+            "D": "120"
+          },
+          "correct_answer": "B",
+          "explanation": "Average = (80 + 100 + 120)/3 = 100 units."
+        },
+        {
+          "id": 27,
+          "topic": "Data Sufficiency",
+          "question": "Question: Is n divisible by 6? Statements: I. n is divisible by 2. II. n is divisible by 3.",
+          "options": {
+            "A": "I alone is sufficient",
+            "B": "II alone is sufficient",
+            "C": "Both together are sufficient, but neither alone",
+            "D": "Each alone is sufficient"
+          },
+          "correct_answer": "C",
+          "explanation": "A number is divisible by 6 when it is divisible by both 2 and 3."
+        },
+        {
+          "id": 28,
+          "topic": "Data Sufficiency",
+          "question": "Question: What is the value of x? Statements: I. x + 5 = 12. II. x is an integer.",
+          "options": {
+            "A": "I alone is sufficient",
+            "B": "II alone is sufficient",
+            "C": "Both together are required",
+            "D": "Neither is sufficient"
+          },
+          "correct_answer": "A",
+          "explanation": "Statement I directly gives x = 7."
+        },
+        {
+          "id": 29,
+          "topic": "Arithmetic - Percentage",
+          "question": "A student scores 360 out of 450. What percentage did the student score?",
+          "options": {
+            "A": "75%",
+            "B": "80%",
+            "C": "85%",
+            "D": "90%"
+          },
+          "correct_answer": "B",
+          "explanation": "Percentage = 360/450 × 100 = 80%."
+        },
+        {
+          "id": 30,
+          "topic": "Arithmetic - Average",
+          "question": "The average of 6 numbers is 14. If one number, 20, is removed, what is the average of the remaining five?",
+          "options": {
+            "A": "12.2",
+            "B": "12.8",
+            "C": "13",
+            "D": "13.2"
+          },
+          "correct_answer": "B",
+          "explanation": "Total = 6 × 14 = 84; remaining sum = 64; 64/5 = 12.8."
+        },
+        {
+          "id": 31,
+          "topic": "Arithmetic - Ratio",
+          "question": "A sum of ₹720 is divided between A and B in the ratio 5:7. What is B's share?",
+          "options": {
+            "A": "₹300",
+            "B": "₹360",
+            "C": "₹420",
+            "D": "₹480"
+          },
+          "correct_answer": "C",
+          "explanation": "Total parts = 12; B gets 7/12 × 720 = ₹420."
+        },
+        {
+          "id": 32,
+          "topic": "Arithmetic - Time and Work",
+          "question": "A pipe fills a tank in 6 hours. What fraction of the tank does it fill in 2 hours at a constant rate?",
+          "options": {
+            "A": "1/6",
+            "B": "1/3",
+            "C": "1/2",
+            "D": "2/3"
+          },
+          "correct_answer": "B",
+          "explanation": "In 2 hours it fills 2/6 = 1/3 of the tank."
+        },
+        {
+          "id": 33,
+          "topic": "Arithmetic - Speed",
+          "question": "A person covers 60 km at 30 km/h. How much time is taken?",
+          "options": {
+            "A": "1 hour",
+            "B": "1.5 hours",
+            "C": "2 hours",
+            "D": "3 hours"
+          },
+          "correct_answer": "C",
+          "explanation": "Time = distance/speed = 60/30 = 2 hours."
+        },
+        {
+          "id": 34,
+          "topic": "Arithmetic - Profit and Loss",
+          "question": "An article is sold for ₹540 at a loss of 10%. Find its cost price.",
+          "options": {
+            "A": "₹580",
+            "B": "₹590",
+            "C": "₹600",
+            "D": "₹620"
+          },
+          "correct_answer": "C",
+          "explanation": "Selling price is 90% of cost price; CP = 540/0.9 = ₹600."
+        },
+        {
+          "id": 35,
+          "topic": "Data Interpretation - Caselet",
+          "question": "A library has 500 books. 40% are science books, 30% are literature books and the rest are history books. How many history books are there?",
+          "options": {
+            "A": "100",
+            "B": "125",
+            "C": "150",
+            "D": "200"
+          },
+          "correct_answer": "C",
+          "explanation": "History books = 100% − 40% − 30% = 30%; 30% of 500 = 150."
+        }
+      ]
+    }
+  ]
+}

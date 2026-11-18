@@ -1,0 +1,22 @@
+[
+  {
+    "file": "nic-1.json",
+    "title": "Banking Exam Prelims - Full Practice Test",
+    "description": "100 questions across English Language, Reasoning Ability, and Quantitative Aptitude."
+  },
+  {
+    "file": "mock-test.json",
+    "title": "English Language Mock Test",
+    "description": "A 30-question English Language practice set."
+  },
+  {
+    "file": "afcat_1_2025_practice_paper_01.json",
+    "title": "AFCAT 1 2025 Practice Paper 01",
+    "description": "100 questions across Numerical Ability, English, General Awareness, and Reasoning."
+  },
+  {
+    "file": "afcat_1_2025_practice_paper_02.json",
+    "title": "AFCAT 1 2025 Practice Paper 02",
+    "description": "100 questions across Numerical Ability, English, General Awareness, and Reasoning."
+  }
+]

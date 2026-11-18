@@ -1,0 +1,414 @@
+{
+  "sections": [
+    {
+      "section_name": "English Language",
+  "total_questions": 30,
+  "total_marks": 30,
+  "questions": [
+    {
+      "id": 1,
+      "topic": "Reading Comprehension",
+      "question": "According to the passage, what is the primary benefit of developing good reading habits?",
+      "passage": "Reading is one of the most effective ways to improve knowledge and communication skills. Regular reading increases vocabulary, improves concentration and develops critical thinking. In today's digital world, people often prefer short videos and social media posts. However, reading books and articles provides deeper understanding and encourages independent thinking.",
+      "options": {
+        "A": "It improves physical strength",
+        "B": "It develops knowledge and thinking skills",
+        "C": "It reduces the need for education",
+        "D": "It increases social media usage"
+      },
+      "correct_answer": "B",
+      "explanation": "The passage highlights knowledge, concentration, vocabulary and critical thinking as benefits of reading."
+    },
+    {
+      "id": 2,
+      "topic": "Reading Comprehension",
+      "question": "Which of the following is NOT mentioned as a benefit of reading?",
+      "passage": "Reading is one of the most effective ways to improve knowledge and communication skills. Regular reading increases vocabulary, improves concentration and develops critical thinking. In today's digital world, people often prefer short videos and social media posts. However, reading books and articles provides deeper understanding and encourages independent thinking.",
+      "options": {
+        "A": "Improved vocabulary",
+        "B": "Better concentration",
+        "C": "Physical fitness",
+        "D": "Critical thinking"
+      },
+      "correct_answer": "C",
+      "explanation": "The passage mentions vocabulary, concentration and critical thinking, but not physical fitness."
+    },
+    {
+      "id": 3,
+      "topic": "Reading Comprehension",
+      "question": "What do people often prefer in today's digital world?",
+      "passage": "Reading is one of the most effective ways to improve knowledge and communication skills. Regular reading increases vocabulary, improves concentration and develops critical thinking. In today's digital world, people often prefer short videos and social media posts. However, reading books and articles provides deeper understanding and encourages independent thinking.",
+      "options": {
+        "A": "Printed newspapers only",
+        "B": "Short videos and social media posts",
+        "C": "Academic research papers",
+        "D": "Traditional libraries"
+      },
+      "correct_answer": "B",
+      "explanation": "The passage directly states that people often prefer short videos and social media posts."
+    },
+    {
+      "id": 4,
+      "topic": "Reading Comprehension",
+      "question": "What does the word 'independent' mean in the passage?",
+      "passage": "Reading is one of the most effective ways to improve knowledge and communication skills. Regular reading increases vocabulary, improves concentration and develops critical thinking. In today's digital world, people often prefer short videos and social media posts. However, reading books and articles provides deeper understanding and encourages independent thinking.",
+      "options": {
+        "A": "Depending on others",
+        "B": "Thinking for oneself",
+        "C": "Following instructions blindly",
+        "D": "Avoiding decisions"
+      },
+      "correct_answer": "B",
+      "explanation": "Independent thinking means forming opinions and making judgments without relying entirely on others."
+    },
+    {
+      "id": 5,
+      "topic": "Reading Comprehension",
+      "question": "What is the main idea of the passage?",
+      "passage": "Reading is one of the most effective ways to improve knowledge and communication skills. Regular reading increases vocabulary, improves concentration and develops critical thinking. In today's digital world, people often prefer short videos and social media posts. However, reading books and articles provides deeper understanding and encourages independent thinking.",
+      "options": {
+        "A": "Social media should be completely avoided",
+        "B": "Reading has several intellectual benefits",
+        "C": "Books are becoming less expensive",
+        "D": "Videos are better than books"
+      },
+      "correct_answer": "B",
+      "explanation": "The passage focuses on how reading improves knowledge, vocabulary and thinking abilities."
+    },
+    {
+      "id": 6,
+      "topic": "Cloze Test",
+      "question": "Education plays an important role ___ shaping an individual's future.",
+      "options": {
+        "A": "At",
+        "B": "On",
+        "C": "In",
+        "D": "By"
+      },
+      "correct_answer": "C",
+      "explanation": "The correct expression is 'role in shaping', which describes involvement in an activity."
+    },
+    {
+      "id": 7,
+      "topic": "Cloze Test",
+      "question": "She has been working here ___ 2020.",
+      "options": {
+        "A": "For",
+        "B": "Since",
+        "C": "From",
+        "D": "During"
+      },
+      "correct_answer": "B",
+      "explanation": "'Since' is used with a specific starting point in time."
+    },
+    {
+      "id": 8,
+      "topic": "Cloze Test",
+      "question": "Neither the teacher nor the students ___ present yesterday.",
+      "options": {
+        "A": "Was",
+        "B": "Is",
+        "C": "Were",
+        "D": "Has"
+      },
+      "correct_answer": "C",
+      "explanation": "With 'neither...nor', the verb agrees with the nearer subject. 'Students' takes 'were'."
+    },
+    {
+      "id": 9,
+      "topic": "Cloze Test",
+      "question": "He is senior ___ me in the company.",
+      "options": {
+        "A": "Than",
+        "B": "To",
+        "C": "From",
+        "D": "With"
+      },
+      "correct_answer": "B",
+      "explanation": "'Senior' is followed by the preposition 'to', not 'than'."
+    },
+    {
+      "id": 10,
+      "topic": "Cloze Test",
+      "question": "If I ___ rich, I would travel around the world.",
+      "options": {
+        "A": "Am",
+        "B": "Was",
+        "C": "Were",
+        "D": "Will be"
+      },
+      "correct_answer": "C",
+      "explanation": "In hypothetical conditional sentences, 'were' is conventionally used with all subjects."
+    },
+    {
+      "id": 11,
+      "topic": "Error Spotting",
+      "question": "Identify the part containing an error: She do not like coffee.",
+      "options": {
+        "A": "She",
+        "B": "Do not",
+        "C": "Like",
+        "D": "Coffee"
+      },
+      "correct_answer": "B",
+      "explanation": "'She' is singular, so the correct auxiliary is 'does'. The sentence should be 'She does not like coffee.'"
+    },
+    {
+      "id": 12,
+      "topic": "Error Spotting",
+      "question": "Identify the part containing an error: Each of the boys have a bicycle.",
+      "options": {
+        "A": "Each",
+        "B": "Of the boys",
+        "C": "Have",
+        "D": "A bicycle"
+      },
+      "correct_answer": "C",
+      "explanation": "'Each' is singular and requires 'has'."
+    },
+    {
+      "id": 13,
+      "topic": "Error Spotting",
+      "question": "Identify the part containing an error: He is good in mathematics.",
+      "options": {
+        "A": "He",
+        "B": "Is",
+        "C": "Good in",
+        "D": "Mathematics"
+      },
+      "correct_answer": "C",
+      "explanation": "The correct expression is 'good at mathematics'."
+    },
+    {
+      "id": 14,
+      "topic": "Error Spotting",
+      "question": "Identify the part containing an error: The news are very interesting.",
+      "options": {
+        "A": "The",
+        "B": "News",
+        "C": "Are",
+        "D": "Very interesting"
+      },
+      "correct_answer": "C",
+      "explanation": "'News' is an uncountable singular noun and takes 'is'."
+    },
+    {
+      "id": 15,
+      "topic": "Error Spotting",
+      "question": "Identify the part containing an error: I prefer tea than coffee.",
+      "options": {
+        "A": "I",
+        "B": "Prefer",
+        "C": "Tea than",
+        "D": "Coffee"
+      },
+      "correct_answer": "C",
+      "explanation": "'Prefer' takes 'to' when comparing two things. The correct expression is 'prefer tea to coffee'."
+    },
+    {
+      "id": 16,
+      "topic": "Sentence Improvement",
+      "question": "Choose the improved version: He is more taller than his brother.",
+      "options": {
+        "A": "He is tallest than his brother",
+        "B": "He is taller than his brother",
+        "C": "He is more tall than his brother",
+        "D": "He is most taller than his brother"
+      },
+      "correct_answer": "B",
+      "explanation": "'Taller' is already the comparative form of 'tall'. Using 'more' is unnecessary."
+    },
+    {
+      "id": 17,
+      "topic": "Sentence Improvement",
+      "question": "Choose the improved version: Despite of his hard work, he failed.",
+      "options": {
+        "A": "Despite his hard work, he failed",
+        "B": "Despite for his hard work, he failed",
+        "C": "Despite with his hard work, he failed",
+        "D": "Despite to his hard work, he failed"
+      },
+      "correct_answer": "A",
+      "explanation": "'Despite' is not followed by 'of'. The correct construction is 'despite his hard work'."
+    },
+    {
+      "id": 18,
+      "topic": "Sentence Improvement",
+      "question": "Choose the improved version: I am looking forward to meet you.",
+      "options": {
+        "A": "I am looking forward to meeting you",
+        "B": "I am looking forward for meet you",
+        "C": "I am looking forward meeting you",
+        "D": "I am looking forward to met you"
+      },
+      "correct_answer": "A",
+      "explanation": "The expression 'look forward to' is followed by a noun or gerund (verb + ing)."
+    },
+    {
+      "id": 19,
+      "topic": "Para Jumbles",
+      "question": "Arrange the sentences in the correct order: P. Finally, he submitted the report. Q. He collected all the necessary information. R. First, he received the assignment. S. Then, he analysed the data.",
+      "options": {
+        "A": "R-Q-S-P",
+        "B": "Q-R-P-S",
+        "C": "S-Q-R-P",
+        "D": "P-R-Q-S"
+      },
+      "correct_answer": "A",
+      "explanation": "The logical sequence is receiving the assignment, collecting information, analysing data and submitting the report."
+    },
+    {
+      "id": 20,
+      "topic": "Para Jumbles",
+      "question": "Arrange the sentences in the correct order: P. Trees provide oxygen. Q. Therefore, planting trees is essential. R. Trees also absorb carbon dioxide. S. They help maintain ecological balance.",
+      "options": {
+        "A": "P-R-S-Q",
+        "B": "Q-P-S-R",
+        "C": "R-Q-P-S",
+        "D": "S-P-Q-R"
+      },
+      "correct_answer": "A",
+      "explanation": "The passage introduces the benefits of trees before concluding that planting them is essential."
+    },
+    {
+      "id": 21,
+      "topic": "Fillers",
+      "question": "The manager asked the employees to ___ the meeting on time.",
+      "options": {
+        "A": "Attend",
+        "B": "Attends",
+        "C": "Attending",
+        "D": "Attended"
+      },
+      "correct_answer": "A",
+      "explanation": "The infinitive 'to' is followed by the base form of the verb."
+    },
+    {
+      "id": 22,
+      "topic": "Fillers",
+      "question": "Although it was raining, they ___ playing football.",
+      "options": {
+        "A": "Continued",
+        "B": "Stopped",
+        "C": "Avoided",
+        "D": "Prevented"
+      },
+      "correct_answer": "A",
+      "explanation": "'Continued' correctly expresses that they kept playing despite the rain."
+    },
+    {
+      "id": 23,
+      "topic": "Double Fillers",
+      "question": "The employee was ___ for his honesty and ___ for his dedication.",
+      "options": {
+        "A": "Punished, ignored",
+        "B": "Respected, admired",
+        "C": "Rejected, criticised",
+        "D": "Blamed, disliked"
+      },
+      "correct_answer": "B",
+      "explanation": "Both 'respected' and 'admired' convey positive appreciation."
+    },
+    {
+      "id": 24,
+      "topic": "Double Fillers",
+      "question": "The instructions were so ___ that everyone understood them ___ .",
+      "options": {
+        "A": "Confusing, hardly",
+        "B": "Clear, easily",
+        "C": "Difficult, rarely",
+        "D": "Complex, incorrectly"
+      },
+      "correct_answer": "B",
+      "explanation": "'Clear' and 'easily' form the only logically consistent combination."
+    },
+    {
+      "id": 25,
+      "topic": "Phrase Replacement",
+      "question": "Choose the correct replacement for the phrase 'At the eleventh hour'.",
+      "options": {
+        "A": "Very early",
+        "B": "At the last moment",
+        "C": "After a long time",
+        "D": "At regular intervals"
+      },
+      "correct_answer": "B",
+      "explanation": "'At the eleventh hour' means doing something at the last possible moment."
+    },
+    {
+      "id": 26,
+      "topic": "Phrase Replacement",
+      "question": "Choose the meaning of 'A blessing in disguise'.",
+      "options": {
+        "A": "A hidden danger",
+        "B": "An unexpected benefit",
+        "C": "A serious mistake",
+        "D": "A false promise"
+      },
+      "correct_answer": "B",
+      "explanation": "It describes something that initially seems bad but eventually produces a positive result."
+    },
+    {
+      "id": 27,
+      "topic": "Vocabulary - Synonyms",
+      "question": "Choose the synonym of 'Diligent'.",
+      "options": {
+        "A": "Lazy",
+        "B": "Careless",
+        "C": "Hardworking",
+        "D": "Weak"
+      },
+      "correct_answer": "C",
+      "explanation": "Diligent means showing careful and persistent effort in one's work."
+    },
+    {
+      "id": 28,
+      "topic": "Vocabulary - Antonyms",
+      "question": "Choose the antonym of 'Expand'.",
+      "options": {
+        "A": "Increase",
+        "B": "Enlarge",
+        "C": "Extend",
+        "D": "Contract"
+      },
+      "correct_answer": "D",
+      "explanation": "Expand means to increase in size, while contract means to become smaller."
+    },
+    {
+      "id": 29,
+      "topic": "Word Usage",
+      "question": "Choose the sentence in which the word 'Principal' is used correctly.",
+      "options": {
+        "A": "The principal of the college addressed the students",
+        "B": "The principle of the college addressed the students",
+        "C": "He is the principal reason of his success",
+        "D": "She followed the principal of honesty"
+      },
+      "correct_answer": "A",
+      "explanation": "'Principal' means the head of an institution. 'Principle' refers to a rule or belief."
+    },
+    {
+      "id": 30,
+      "topic": "Spelling",
+      "question": "Choose the correctly spelled word.",
+      "options": {
+        "A": "Maintanance",
+        "B": "Maintenance",
+        "C": "Maintainance",
+        "D": "Maintenence"
+      },
+      "correct_answer": "B",
+      "explanation": "Maintenance is the correct spelling. It refers to the process of keeping something in good condition."
+    }
+    ]
+  },
+  {
+      "section_name": "Reasoning Ability",
+      "questions": []
+    },
+    {
+      "section_name": "Quantitative Aptitude",
+      "questions": []
+    }
+  ]
+}

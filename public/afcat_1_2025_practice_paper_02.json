@@ -1,0 +1,1342 @@
+{
+  "test_name": "AFCAT 1 2025 Practice Paper 02",
+  "test_type": "Full Length Mock Test",
+  "total_questions": 100,
+  "total_marks": 100,
+  "sections": [
+    {
+      "section_name": "Numerical Ability",
+      "total_questions": 25,
+      "total_marks": 25,
+      "questions": [
+        {
+          "id": 1,
+          "topic": "Profit and Loss",
+          "question": "A private space-tech start-up ships three consignments of small-satellite bus components to three foreign customers. Consignment-P (cost ₹6,00,000) is billed at 22% gross profit; Consignment-Q (cost ₹4,50,000) is billed at a loss of 8%; and Consignment-R (cost ₹3,50,000) is billed at 15% gross profit. If a uniform export authorisation fee of 2.5% is then deducted from the aggregate billed amount, the start-up's overall net profit percent on total cost is closest to:",
+          "options": {
+            "A": "7.5%",
+            "B": "7.8%",
+            "C": "8.2%",
+            "D": "8.7%"
+          },
+          "correct_answer": "B",
+          "explanation": "Correct option recorded in the supplied AFCAT 1 2025 Answer Key 02: B."
+        },
+        {
+          "id": 5,
+          "topic": "Trains",
+          "question": "Two trains approaching each other have speeds in ratio 5:3. They cross in 20 seconds; combined length is 800 m. Find faster train speed in km/h.",
+          "options": {
+            "A": "72",
+            "B": "81",
+            "C": "90",
+            "D": "96"
+          },
+          "correct_answer": "C",
+          "explanation": "Correct option recorded in the supplied AFCAT 1 2025 Answer Key 02: C."
+        },
+        {
+          "id": 9,
+          "topic": "Compound Interest",
+          "question": "₹25,000 is invested at 10% p.a. compound interest compounded half-yearly for 1½ years. Find approximate compound interest.",
+          "options": {
+            "A": "₹3,940",
+            "B": "₹3,878",
+            "C": "₹3,972",
+            "D": "₹4,041"
+          },
+          "correct_answer": "A",
+          "explanation": "Correct option recorded in the supplied AFCAT 1 2025 Answer Key 02: A."
+        },
+        {
+          "id": 14,
+          "topic": "Mixture and Alligation",
+          "question": "A container has 96 L milk-water mixture in ratio 5:3. 24 L is drawn and replaced with water; this is repeated. Find final milk quantity.",
+          "options": {
+            "A": "33.75 L",
+            "B": "36.00 L",
+            "C": "34.50 L",
+            "D": "32.50 L"
+          },
+          "correct_answer": "A",
+          "explanation": "Correct option recorded in the supplied AFCAT 1 2025 Answer Key 02: A."
+        },
+        {
+          "id": 18,
+          "topic": "Time and Work",
+          "question": "A+B finish work in 18 days, B+C in 24 days, and C+A in 36 days. How long will A+B+C take?",
+          "options": {
+            "A": "16 days",
+            "B": "14 days",
+            "C": "12 days",
+            "D": "18 days"
+          },
+          "correct_answer": "A",
+          "explanation": "Adding the three pairwise work rates gives twice the combined rate of A, B and C."
+        },
+        {
+          "id": 22,
+          "topic": "Average",
+          "question": "Average of 25 numbers is 42. Each number is multiplied by 1.5 and then 2 is subtracted. Find new average.",
+          "options": {
+            "A": "61",
+            "B": "63",
+            "C": "62",
+            "D": "60"
+          },
+          "correct_answer": "A",
+          "explanation": "Averages undergo the same linear change: 42 × 1.5 − 2 = 61."
+        },
+        {
+          "id": 26,
+          "topic": "Profit, Loss and Discount",
+          "question": "Goods are marked 45% above cost; successive discounts are 15% and 10%. Find net profit percent.",
+          "options": {
+            "A": "10.5%",
+            "B": "11.0%",
+            "C": "10.9%",
+            "D": "11.2%"
+          },
+          "correct_answer": "C",
+          "explanation": "Successive discounts are applied multiplicatively to the marked price."
+        },
+        {
+          "id": 30,
+          "topic": "Ratio",
+          "question": "Two positive numbers are in ratio 4:9. Difference of their squares is 1625. Find smaller number.",
+          "options": {
+            "A": "16",
+            "B": "20",
+            "C": "24",
+            "D": "28"
+          },
+          "correct_answer": "B",
+          "explanation": "The subject 'batch' is singular, so the verb should be 'is'."
+        },
+        {
+          "id": 34,
+          "topic": "Mensuration",
+          "question": "A cylindrical fuel tank of diameter 14 m and height 30 m is filled to two-thirds capacity. Fuel drains at 22 kL/min. Find drain time.",
+          "options": {
+            "A": "2 h 20 min",
+            "B": "2 h 24 min",
+            "C": "2 h 12 min",
+            "D": "2 h 30 min"
+          },
+          "correct_answer": "A",
+          "explanation": "Correct option recorded in the supplied AFCAT 1 2025 Answer Key 02: A."
+        },
+        {
+          "id": 38,
+          "topic": "Trains",
+          "question": "Two trains 240 m and 180 m cross in 14 s in opposite directions and 42 s in same direction. Find faster speed.",
+          "options": {
+            "A": "72 km/h",
+            "B": "54 km/h",
+            "C": "60 km/h",
+            "D": "66 km/h"
+          },
+          "correct_answer": "A",
+          "explanation": "Correct option recorded in the supplied AFCAT 1 2025 Answer Key 02: A."
+        },
+        {
+          "id": 42,
+          "topic": "Profit and Loss",
+          "question": "A trader gains 25% by selling an article for ₹750. At what price must he sell to gain 40%?",
+          "options": {
+            "A": "₹810",
+            "B": "₹820",
+            "C": "₹830",
+            "D": "₹840"
+          },
+          "correct_answer": "D",
+          "explanation": "Correct option recorded in the supplied AFCAT 1 2025 Answer Key 02: D."
+        },
+        {
+          "id": 46,
+          "topic": "Simple Interest",
+          "question": "At what simple-interest rate will ₹8,000 amount to ₹12,000 in exactly 8 years?",
+          "options": {
+            "A": "5%",
+            "B": "6%",
+            "C": "6.25%",
+            "D": "7%"
+          },
+          "correct_answer": "C",
+          "explanation": "Correct option recorded in the supplied AFCAT 1 2025 Answer Key 02: C."
+        },
+        {
+          "id": 52,
+          "topic": "Time and Work",
+          "question": "45 workers build a wall in 30 days at 6 h/day. How many days for 30 workers to build twice the length at 9 h/day?",
+          "options": {
+            "A": "50",
+            "B": "60",
+            "C": "55",
+            "D": "72"
+          },
+          "correct_answer": "B",
+          "explanation": "Correct option recorded in the supplied AFCAT 1 2025 Answer Key 02: B."
+        },
+        {
+          "id": 55,
+          "topic": "Mensuration",
+          "question": "A cuboidal tank is 4 m × 3 m × 2.5 m. Water is pumped at 2 kL/min. How long to fill 75%?",
+          "options": {
+            "A": "10 min",
+            "B": "11 min 15 sec",
+            "C": "12 min",
+            "D": "12 min 30 sec"
+          },
+          "correct_answer": "B",
+          "explanation": "Correct option recorded in the supplied AFCAT 1 2025 Answer Key 02: B."
+        },
+        {
+          "id": 59,
+          "topic": "HCF",
+          "question": "The HCF of the polynomials (12, 18, 24) is:",
+          "options": {
+            "A": "6",
+            "B": "3",
+            "C": "4",
+            "D": "12"
+          },
+          "correct_answer": "A",
+          "explanation": "Correct option recorded in the supplied AFCAT 1 2025 Answer Key 02: A."
+        },
+        {
+          "id": 63,
+          "topic": "Pipes and Cisterns",
+          "question": "Pipes A and B fill a tank in 15 h and 20 h; drain C empties it in 30 h. All open at t=0; C closes at t=5 h. When is tank full?",
+          "options": {
+            "A": "8 h",
+            "B": "10 h",
+            "C": "9 h",
+            "D": "11 h"
+          },
+          "correct_answer": "B",
+          "explanation": "Calculate the net filling rate for the first five hours, then continue with A and B only."
+        },
+        {
+          "id": 67,
+          "topic": "Mensuration",
+          "question": "Volume of a right circular cone with base diameter 14 cm and slant height 25 cm (π=22/7):",
+          "options": {
+            "A": "1,232 cm³",
+            "B": "1,540 cm³",
+            "C": "1,232 cm³",
+            "D": "1,144 cm³"
+          },
+          "correct_answer": "A",
+          "explanation": "Correct option recorded in the supplied AFCAT 1 2025 Answer Key 02: A."
+        },
+        {
+          "id": 71,
+          "topic": "Percentages",
+          "question": "A number is decreased by 20%, then increased by 25%. Net percentage change:",
+          "options": {
+            "A": "No change",
+            "B": "0.5% increase",
+            "C": "5% decrease",
+            "D": "0.5% decrease"
+          },
+          "correct_answer": "A",
+          "explanation": "100 reduced by 20% becomes 80; increasing 80 by 25% returns it to 100."
+        },
+        {
+          "id": 74,
+          "topic": "Mixture and Alligation",
+          "question": "Two alloys contain zinc and copper in ratios 2:5 and 4:3. In what ratio must they be mixed to obtain zinc:copper = 5:9?",
+          "options": {
+            "A": "1:3",
+            "B": "1:4",
+            "C": "3:1",
+            "D": "2:3"
+          },
+          "correct_answer": "A",
+          "explanation": "Correct option recorded in the supplied AFCAT 1 2025 Answer Key 02: A."
+        },
+        {
+          "id": 78,
+          "topic": "Set Theory",
+          "question": "In a class of 400, 60% offer French, 40% German and 25% both. How many offer only one language?",
+          "options": {
+            "A": "200",
+            "B": "220",
+            "C": "240",
+            "D": "260"
+          },
+          "correct_answer": "A",
+          "explanation": "Only French = 60%−25%=35%; only German = 40%−25%=15%; total = 50% of 400."
+        },
+        {
+          "id": 82,
+          "topic": "Mensuration – Hexagon",
+          "question": "Find area of regular hexagon with perimeter 60 cm.",
+          "options": {
+            "A": "150√3 cm²",
+            "B": "100√3 cm²",
+            "C": "120√3 cm²",
+            "D": "180√3 cm²"
+          },
+          "correct_answer": "A",
+          "explanation": "A regular hexagon with perimeter 60 cm has side 10 cm; area = (3√3/2)×10² = 150√3 cm²."
+        },
+        {
+          "id": 86,
+          "topic": "Average Speed",
+          "question": "A car travels three equal parts at 40, 50 and 60 km/h. Find average speed.",
+          "options": {
+            "A": "48.65 km/h",
+            "B": "49.32 km/h",
+            "C": "49.09 km/h",
+            "D": "50.00 km/h"
+          },
+          "correct_answer": "A",
+          "explanation": "For equal distances, average speed is the harmonic mean: 3/(1/40+1/50+1/60)."
+        },
+        {
+          "id": 91,
+          "topic": "Profit and Loss – False Weights",
+          "question": "A trader marks goods 40% above cost, discounts 20%, and uses 900 g instead of 1 kg. Find approximate overall profit percent.",
+          "options": {
+            "A": "24.44%",
+            "B": "25.00%",
+            "C": "24.55%",
+            "D": "26.67%"
+          },
+          "correct_answer": "A",
+          "explanation": "The effective selling value is 1.4×0.8 per marked unit, with 10% less quantity supplied."
+        },
+        {
+          "id": 94,
+          "topic": "Time and Work",
+          "question": "A can do a task in 30 days, B in 45 days. They work on alternate days starting with B. In how many days is work completed?",
+          "options": {
+            "A": "36",
+            "B": "35",
+            "C": "34",
+            "D": "33.33"
+          },
+          "correct_answer": "A",
+          "explanation": "Correct option recorded in the supplied AFCAT 1 2025 Answer Key 02: A."
+        },
+        {
+          "id": 96,
+          "topic": "Mensuration – Rectangle",
+          "question": "A rectangle has perimeter 68 cm and diagonal 26 cm. Find its area.",
+          "options": {
+            "A": "240 cm²",
+            "B": "260 cm²",
+            "C": "288 cm²",
+            "D": "260 cm²"
+          },
+          "correct_answer": "A",
+          "explanation": "Correct option recorded in the supplied AFCAT 1 2025 Answer Key 02: A."
+        }
+      ]
+    },
+    {
+      "section_name": "English",
+      "total_questions": 23,
+      "total_marks": 23,
+      "questions": [
+        {
+          "id": 2,
+          "topic": "Synonyms",
+          "question": "Synonym of obviate: 'The redundancy in the flight-control software was designed to obviate any single-point-of-failure catastrophe.'",
+          "options": {
+            "A": "Aggravate",
+            "B": "Preclude or prevent",
+            "C": "Delay",
+            "D": "Investigate"
+          },
+          "correct_answer": "B",
+          "explanation": "Obviate means to prevent or remove the need for something."
+        },
+        {
+          "id": 6,
+          "topic": "Error Spotting",
+          "question": "Identify the segment with the error: 'Not only the mission commander / but also the entire crew of the sortie / were awarded / a unit citation.'",
+          "options": {
+            "A": "Not only the mission commander",
+            "B": "but also the entire crew of the sortie",
+            "C": "were awarded",
+            "D": "a unit citation"
+          },
+          "correct_answer": "C",
+          "explanation": "Correct option recorded in the supplied AFCAT 1 2025 Answer Key 02: C."
+        },
+        {
+          "id": 11,
+          "topic": "Antonyms",
+          "question": "Antonym of garrulous:",
+          "options": {
+            "A": "Loquacious",
+            "B": "Voluble",
+            "C": "Reticent",
+            "D": "Effusive"
+          },
+          "correct_answer": "C",
+          "explanation": "Garrulous means excessively talkative; reticent means reserved or not talkative."
+        },
+        {
+          "id": 15,
+          "topic": "One-word Substitution",
+          "question": "One-word substitute: A political system where governance is exercised by the wealthiest few.",
+          "options": {
+            "A": "Oligarchy",
+            "B": "Plutocracy",
+            "C": "Aristocracy",
+            "D": "Theocracy"
+          },
+          "correct_answer": "B",
+          "explanation": "Plutocracy is government by the wealthy; oligarchy is rule by a small group."
+        },
+        {
+          "id": 19,
+          "topic": "Direct and Indirect Speech",
+          "question": "Convert to indirect speech: The instructor said to the trainee, 'Set the autopilot to heading-hold before you engage cruise mode.'",
+          "options": {
+            "A": "The instructor asked the trainee to set the autopilot to heading-hold before he engaged cruise mode.",
+            "B": "The instructor told the trainee that they set the autopilot to heading-hold.",
+            "C": "The instructor said the trainee to set autopilot.",
+            "D": "The instructor asked whether the trainee had set autopilot."
+          },
+          "correct_answer": "A",
+          "explanation": "Correct option recorded in the supplied AFCAT 1 2025 Answer Key 02: A."
+        },
+        {
+          "id": 23,
+          "topic": "Vocabulary – Fill in the Blank",
+          "question": "Fill in: 'The Chief Marshal's ______ analysis of the intelligence brief left the assembled staff officers scrambling to catch up with his line of reasoning.'",
+          "options": {
+            "A": "vapid",
+            "B": "cursory",
+            "C": "incisive",
+            "D": "prosaic"
+          },
+          "correct_answer": "C",
+          "explanation": "Correct option recorded in the supplied AFCAT 1 2025 Answer Key 02: C."
+        },
+        {
+          "id": 27,
+          "topic": "Spelling",
+          "question": "Correctly spelt word:",
+          "options": {
+            "A": "Millenary",
+            "B": "Millinery",
+            "C": "Milennary",
+            "D": "Milenery"
+          },
+          "correct_answer": "A",
+          "explanation": "Correct option recorded in the supplied AFCAT 1 2025 Answer Key 02: A."
+        },
+        {
+          "id": 31,
+          "topic": "Sentence Improvement",
+          "question": "Improve: 'The batch of trainees, along with the training captain, are heading to the simulator complex.'",
+          "options": {
+            "A": "is",
+            "B": "were",
+            "C": "have been",
+            "D": "No improvement"
+          },
+          "correct_answer": "A",
+          "explanation": "Correct option recorded in the supplied AFCAT 1 2025 Answer Key 02: A."
+        },
+        {
+          "id": 35,
+          "topic": "Idioms and Phrases",
+          "question": "Idiom 'to beat about the bush' means:",
+          "options": {
+            "A": "Attack an enemy in cover",
+            "B": "Avoid coming directly to the point",
+            "C": "Hunt game with a stick",
+            "D": "Be lost in a wilderness"
+          },
+          "correct_answer": "B",
+          "explanation": "The idiom means avoiding the main point instead of speaking directly."
+        },
+        {
+          "id": 39,
+          "topic": "Idioms and Phrases",
+          "question": "Choose the sentence with correct idiom usage:",
+          "options": {
+            "A": "The commander turned the tables on his adversary with a single tactical manoeuvre.",
+            "B": "The commander turned tables on his adversary.",
+            "C": "The commander was turning the table on his adversary.",
+            "D": "The commander turned the table for his adversary."
+          },
+          "correct_answer": "A",
+          "explanation": "Correct option recorded in the supplied AFCAT 1 2025 Answer Key 02: A."
+        },
+        {
+          "id": 43,
+          "topic": "Error Spotting",
+          "question": "Identify error: 'Every one of the officer's staff / have submitted their efficiency report / to the personnel branch / on time this quarter.'",
+          "options": {
+            "A": "Every one of the officer's staff",
+            "B": "have submitted their efficiency report",
+            "C": "to the personnel branch",
+            "D": "on time this quarter"
+          },
+          "correct_answer": "B",
+          "explanation": "Correct option recorded in the supplied AFCAT 1 2025 Answer Key 02: B."
+        },
+        {
+          "id": 47,
+          "topic": "Reading Comprehension",
+          "question": "Passage Q47–50: What is the central argument for why space debris grows?",
+          "options": {
+            "A": "Space is a true commons owned by no one",
+            "B": "Launch-time collision risk is externalised, not borne by launching operator",
+            "C": "Nation-states own too little orbit",
+            "D": "Operators voluntarily leave debris behind"
+          },
+          "correct_answer": "B",
+          "explanation": "Correct option recorded in the supplied AFCAT 1 2025 Answer Key 02: B."
+        },
+        {
+          "id": 48,
+          "topic": "Reading Comprehension",
+          "question": "According to the passage, Kessler syndrome refers to:",
+          "options": {
+            "A": "Pilot fatigue",
+            "B": "A cascading orbital-debris chain reaction",
+            "C": "Satellite-communications protocol",
+            "D": "Launch-vehicle failure mode"
+          },
+          "correct_answer": "B",
+          "explanation": "Kessler syndrome is a cascading chain reaction of collisions and orbital debris."
+        },
+        {
+          "id": 49,
+          "topic": "Reading Comprehension",
+          "question": "According to the passage, one proposed mechanism to correct the externality is:",
+          "options": {
+            "A": "Free launches from ISA states",
+            "B": "A debris-removal levy on launching operators",
+            "C": "Fewer launches by treaty alone",
+            "D": "Banning small satellites"
+          },
+          "correct_answer": "B",
+          "explanation": "Correct option recorded in the supplied AFCAT 1 2025 Answer Key 02: B."
+        },
+        {
+          "id": 50,
+          "topic": "Reading Comprehension",
+          "question": "The tone of the passage is best described as:",
+          "options": {
+            "A": "Analytical and economic in framing",
+            "B": "Sentimental and nostalgic",
+            "C": "Fervently alarmist without evidence",
+            "D": "Hostile to all commercial space"
+          },
+          "correct_answer": "A",
+          "explanation": "Correct option recorded in the supplied AFCAT 1 2025 Answer Key 02: A."
+        },
+        {
+          "id": 60,
+          "topic": "Idioms and Phrases",
+          "question": "Idiom 'to grasp at straws' means:",
+          "options": {
+            "A": "Make desperate attempts at any faint hope in a dire situation",
+            "B": "Eat healthily",
+            "C": "Take part in a lottery",
+            "D": "Hold a straw doll"
+          },
+          "correct_answer": "A",
+          "explanation": "To grasp at straws means to make desperate attempts when little hope remains."
+        },
+        {
+          "id": 64,
+          "topic": "Grammar – Subject-Verb Agreement",
+          "question": "Choose the correct sentence:",
+          "options": {
+            "A": "The number of applicants for AFCAT have increased sharply this year.",
+            "B": "The number of applicants for AFCAT has increased sharply this year.",
+            "C": "The number of applicant for AFCAT has increased sharply this year.",
+            "D": "The number of applicants for AFCAT were increased sharply this year."
+          },
+          "correct_answer": "B",
+          "explanation": "Correct option recorded in the supplied AFCAT 1 2025 Answer Key 02: B."
+        },
+        {
+          "id": 68,
+          "topic": "Vocabulary",
+          "question": "Fill in: 'The Air Marshal's ______ style, marked by long silences punctuated by pointed questions, had become legendary.'",
+          "options": {
+            "A": "loquacious",
+            "B": "laconic",
+            "C": "prolix",
+            "D": "voluble"
+          },
+          "correct_answer": "B",
+          "explanation": "Correct option recorded in the supplied AFCAT 1 2025 Answer Key 02: B."
+        },
+        {
+          "id": 75,
+          "topic": "Synonyms",
+          "question": "Select synonym of equanimity:",
+          "options": {
+            "A": "Anxiety",
+            "B": "Composure of mind",
+            "C": "Belligerence",
+            "D": "Volatility"
+          },
+          "correct_answer": "B",
+          "explanation": "Correct option recorded in the supplied AFCAT 1 2025 Answer Key 02: B."
+        },
+        {
+          "id": 79,
+          "topic": "Vocabulary – Fill in the Blank",
+          "question": "Fill in: 'Her ______ enthusiasm, undiminished after 30 years of frontline service, remained the moral center of gravity of the unit.'",
+          "options": {
+            "A": "quixotic",
+            "B": "indefatigable",
+            "C": "quiescent",
+            "D": "capricious"
+          },
+          "correct_answer": "B",
+          "explanation": "Correct option recorded in the supplied AFCAT 1 2025 Answer Key 02: B."
+        },
+        {
+          "id": 83,
+          "topic": "Antonyms",
+          "question": "Antonym of abstruse:",
+          "options": {
+            "A": "Recondite",
+            "B": "Esoteric",
+            "C": "Perspicuous",
+            "D": "Cryptic"
+          },
+          "correct_answer": "C",
+          "explanation": "Abstruse means difficult to understand; perspicuous means clear and easy to understand."
+        },
+        {
+          "id": 87,
+          "topic": "Idioms and Phrases",
+          "question": "Idiom 'to go the whole hog' means:",
+          "options": {
+            "A": "Do something completely and without reservation",
+            "B": "Eat a lot",
+            "C": "Move quickly",
+            "D": "Hunt a wild boar"
+          },
+          "correct_answer": "A",
+          "explanation": "To go the whole hog means to do something fully or without holding back."
+        },
+        {
+          "id": 97,
+          "topic": "Idioms and Phrases",
+          "question": "Idiom 'to play the second fiddle' means:",
+          "options": {
+            "A": "Be in a subordinate or secondary role",
+            "B": "Play a musical instrument",
+            "C": "Wait for a second turn",
+            "D": "Cheat at cards"
+          },
+          "correct_answer": "A",
+          "explanation": "The idiom means taking a secondary or subordinate role."
+        }
+      ]
+    },
+    {
+      "section_name": "General Awareness",
+      "total_questions": 29,
+      "total_marks": 29,
+      "questions": [
+        {
+          "id": 3,
+          "topic": "Space and Technology",
+          "question": "The SSLV-D3 mission of ISRO, successfully conducted in August 2024, placed which primary satellite into a near-equatorial low-Earth orbit?",
+          "options": {
+            "A": "EOS-08",
+            "B": "INSAT-3DS",
+            "C": "XPoSat",
+            "D": "Aditya-L1"
+          },
+          "correct_answer": "A",
+          "explanation": "Correct option recorded in the supplied AFCAT 1 2025 Answer Key 02: A."
+        },
+        {
+          "id": 7,
+          "topic": "Defence",
+          "question": "The Astra beyond-visual-range air-to-air missile was successfully test-fired for the first time from the Sukhoi Su-30MKI at a range of over 100 km in which year?",
+          "options": {
+            "A": "2015",
+            "B": "2017",
+            "C": "2019",
+            "D": "2021"
+          },
+          "correct_answer": "C",
+          "explanation": "Correct option recorded in the supplied AFCAT 1 2025 Answer Key 02: C."
+        },
+        {
+          "id": 10,
+          "topic": "Space and Technology",
+          "question": "The PSLV-C58 mission of January 2024 primarily placed which pioneering Indian scientific satellite into orbit?",
+          "options": {
+            "A": "INSAT-3DS",
+            "B": "XPoSat",
+            "C": "EOS-06",
+            "D": "Aditya-L1"
+          },
+          "correct_answer": "B",
+          "explanation": "Correct option recorded in the supplied AFCAT 1 2025 Answer Key 02: B."
+        },
+        {
+          "id": 13,
+          "topic": "Polity and Government",
+          "question": "The One Nation One Election High-Level Committee submitted its final report in March 2024. Who chaired it?",
+          "options": {
+            "A": "Former President Ram Nath Kovind",
+            "B": "Former President Pranab Mukherjee",
+            "C": "Former CJI N. V. Ramana",
+            "D": "Former Vice President M. Venkaiah Naidu"
+          },
+          "correct_answer": "A",
+          "explanation": "Correct option recorded in the supplied AFCAT 1 2025 Answer Key 02: A."
+        },
+        {
+          "id": 17,
+          "topic": "Defence and Aviation",
+          "question": "The first of the 83-aircraft HAL LCA Tejas Mk-1A contract made its maiden flight in March 2024 at HAL's facility in:",
+          "options": {
+            "A": "Bengaluru",
+            "B": "Nasik",
+            "C": "Kanpur",
+            "D": "Koraput"
+          },
+          "correct_answer": "A",
+          "explanation": "Correct option recorded in the supplied AFCAT 1 2025 Answer Key 02: A."
+        },
+        {
+          "id": 21,
+          "topic": "Space and Technology",
+          "question": "The PSLV-C55 mission of April 2023 deployed which two Singaporean earth-observation satellites?",
+          "options": {
+            "A": "TeLEOS-1 and TeLEOS-2",
+            "B": "TeLEOS-2 and Lumelite-4",
+            "C": "PSN-6 and DS-2",
+            "D": "NEO-1 and NEO-2"
+          },
+          "correct_answer": "B",
+          "explanation": "Correct option recorded in the supplied AFCAT 1 2025 Answer Key 02: B."
+        },
+        {
+          "id": 25,
+          "topic": "Defence – Indian Navy",
+          "question": "INS Nilgiri, lead ship of Project 17A stealth frigates, was commissioned into the Indian Navy in:",
+          "options": {
+            "A": "2023",
+            "B": "January 2025",
+            "C": "2026 (planned)",
+            "D": "2022"
+          },
+          "correct_answer": "B",
+          "explanation": "Correct option recorded in the supplied AFCAT 1 2025 Answer Key 02: B."
+        },
+        {
+          "id": 29,
+          "topic": "Defence Exercises",
+          "question": "MILAN 2024 multilateral naval exercise hosted warships and delegates from how many friendly foreign navies?",
+          "options": {
+            "A": "About 40",
+            "B": "About 25",
+            "C": "Over 50",
+            "D": "About 15"
+          },
+          "correct_answer": "C",
+          "explanation": "Correct option recorded in the supplied AFCAT 1 2025 Answer Key 02: C."
+        },
+        {
+          "id": 33,
+          "topic": "Science and Technology",
+          "question": "The Deep Ocean Mission's manned submersible Matsya-6000 is being developed by:",
+          "options": {
+            "A": "NIOT",
+            "B": "ISRO",
+            "C": "DRDO",
+            "D": "INCOIS"
+          },
+          "correct_answer": "A",
+          "explanation": "Correct option recorded in the supplied AFCAT 1 2025 Answer Key 02: A."
+        },
+        {
+          "id": 37,
+          "topic": "Defence – Appointments",
+          "question": "As of AFCAT 1 2025, who was Chief of the Naval Staff?",
+          "options": {
+            "A": "Admiral Karambir Singh",
+            "B": "Admiral R. Hari Kumar",
+            "C": "Admiral Dinesh K. Tripathi",
+            "D": "Admiral Sunil Lanba"
+          },
+          "correct_answer": "C",
+          "explanation": "Correct option recorded in the supplied AFCAT 1 2025 Answer Key 02: C."
+        },
+        {
+          "id": 41,
+          "topic": "Awards and Science",
+          "question": "The 2024 Nobel Prize in Physics was awarded to John Hopfield and Geoffrey Hinton for discoveries related to:",
+          "options": {
+            "A": "Cellular oxygen sensing",
+            "B": "Machine learning with artificial neural networks",
+            "C": "Attosecond electron dynamics",
+            "D": "Quantum-dot displays"
+          },
+          "correct_answer": "B",
+          "explanation": "The phrase 'the number of' takes a singular verb: 'has increased'."
+        },
+        {
+          "id": 45,
+          "topic": "International Organisations",
+          "question": "India assumed the presidency of the International Solar Alliance at its 6th Assembly session in New Delhi in:",
+          "options": {
+            "A": "2021",
+            "B": "2022",
+            "C": "2023",
+            "D": "2024"
+          },
+          "correct_answer": "C",
+          "explanation": "Correct option recorded in the supplied AFCAT 1 2025 Answer Key 02: C."
+        },
+        {
+          "id": 51,
+          "topic": "Government Schemes",
+          "question": "The Nari Adalat initiative for gram panchayat-level ADR forums for women is administered by which Union Ministry?",
+          "options": {
+            "A": "MoWCD",
+            "B": "MHA",
+            "C": "MHRD",
+            "D": "MoRD"
+          },
+          "correct_answer": "A",
+          "explanation": "Correct option recorded in the supplied AFCAT 1 2025 Answer Key 02: A."
+        },
+        {
+          "id": 54,
+          "topic": "Indian Polity",
+          "question": "Doctrine of Colourable Legislation relates to:",
+          "options": {
+            "A": "Colour-coding bills",
+            "B": "Legislative bodies enacting laws indirectly beyond their competence",
+            "C": "Presidential veto powers",
+            "D": "State-emblem regulations"
+          },
+          "correct_answer": "B",
+          "explanation": "Correct option recorded in the supplied AFCAT 1 2025 Answer Key 02: B."
+        },
+        {
+          "id": 58,
+          "topic": "Indian Air Force",
+          "question": "The IAF South Western Air Command headquarters is located at:",
+          "options": {
+            "A": "Gandhinagar",
+            "B": "Bengaluru",
+            "C": "Nagpur",
+            "D": "Prayagraj"
+          },
+          "correct_answer": "A",
+          "explanation": "Correct option recorded in the supplied AFCAT 1 2025 Answer Key 02: A."
+        },
+        {
+          "id": 62,
+          "topic": "Science",
+          "question": "The 'B4 vitamin' is another name for:",
+          "options": {
+            "A": "Thiamine",
+            "B": "Riboflavin",
+            "C": "Adenine (informal)",
+            "D": "Niacin"
+          },
+          "correct_answer": "C",
+          "explanation": "Correct option recorded in the supplied AFCAT 1 2025 Answer Key 02: C."
+        },
+        {
+          "id": 66,
+          "topic": "Space and Technology",
+          "question": "ISRO's SPADEX demonstrated first-ever autonomous in-orbit docking of two Indian satellites in:",
+          "options": {
+            "A": "December 2024",
+            "B": "January 2025",
+            "C": "November 2024",
+            "D": "March 2025"
+          },
+          "correct_answer": "B",
+          "explanation": "Correct option recorded in the supplied AFCAT 1 2025 Answer Key 02: B."
+        },
+        {
+          "id": 70,
+          "topic": "Geography – Rivers",
+          "question": "The Sundarbans delta lies primarily in the sub-basin of which river system?",
+          "options": {
+            "A": "Indus",
+            "B": "Ganga-Brahmaputra-Meghna",
+            "C": "Godavari",
+            "D": "Krishna"
+          },
+          "correct_answer": "B",
+          "explanation": "Correct option recorded in the supplied AFCAT 1 2025 Answer Key 02: B."
+        },
+        {
+          "id": 73,
+          "topic": "Defence – Ranks",
+          "question": "The IAF equivalent of Army rank Lieutenant Colonel is:",
+          "options": {
+            "A": "Wing Commander",
+            "B": "Group Captain",
+            "C": "Air Commodore",
+            "D": "Squadron Leader"
+          },
+          "correct_answer": "A",
+          "explanation": "Correct option recorded in the supplied AFCAT 1 2025 Answer Key 02: A."
+        },
+        {
+          "id": 77,
+          "topic": "Environment – Tiger Reserves",
+          "question": "Which national park in India was declared a Tiger Reserve in 2023, taking official count past 55?",
+          "options": {
+            "A": "Ratapani (Madhya Pradesh)",
+            "B": "Dholpur-Karauli (Rajasthan)",
+            "C": "Veerangana Durgavati (Madhya Pradesh)",
+            "D": "Guru Ghasidas–Tamor Pingla (Chhattisgarh)"
+          },
+          "correct_answer": "C",
+          "explanation": "Correct option recorded in the supplied AFCAT 1 2025 Answer Key 02: C."
+        },
+        {
+          "id": 81,
+          "topic": "Government Policy",
+          "question": "Under the proposed Digital India Act, the primary regulatory objective is:",
+          "options": {
+            "A": "Comprehensive re-organisation of digital-space governance",
+            "B": "Restrictions only on foreign investors",
+            "C": "A ban on all social media",
+            "D": "Only e-governance simplification"
+          },
+          "correct_answer": "A",
+          "explanation": "Correct option recorded in the supplied AFCAT 1 2025 Answer Key 02: A."
+        },
+        {
+          "id": 85,
+          "topic": "Defence Exercises",
+          "question": "Yudh Abhyas bilateral exercise in September 2024 was conducted between India and:",
+          "options": {
+            "A": "USA",
+            "B": "Russia",
+            "C": "France",
+            "D": "UK"
+          },
+          "correct_answer": "A",
+          "explanation": "Correct option recorded in the supplied AFCAT 1 2025 Answer Key 02: A."
+        },
+        {
+          "id": 88,
+          "topic": "Defence Policy",
+          "question": "DAP 2020 (Defence Acquisition Procedure) is administered by:",
+          "options": {
+            "A": "MoD's Department of Defence",
+            "B": "Department of Defence Production alone",
+            "C": "Integrated Defence Staff",
+            "D": "Cabinet Committee on Security only"
+          },
+          "correct_answer": "A",
+          "explanation": "Correct option recorded in the supplied AFCAT 1 2025 Answer Key 02: A."
+        },
+        {
+          "id": 90,
+          "topic": "Government Institutions",
+          "question": "National Turmeric Board, established in October 2023, has headquarters at:",
+          "options": {
+            "A": "Nizamabad, Telangana",
+            "B": "Erode, Tamil Nadu",
+            "C": "Sangli, Maharashtra",
+            "D": "Salem, Tamil Nadu"
+          },
+          "correct_answer": "A",
+          "explanation": "Correct option recorded in the supplied AFCAT 1 2025 Answer Key 02: A."
+        },
+        {
+          "id": 92,
+          "topic": "Awards",
+          "question": "The 2024 Nobel Peace Prize was awarded to:",
+          "options": {
+            "A": "Nihon Hidankyo",
+            "B": "Narges Mohammadi",
+            "C": "European Union",
+            "D": "Ales Bialiatski"
+          },
+          "correct_answer": "A",
+          "explanation": "Correct option recorded in the supplied AFCAT 1 2025 Answer Key 02: A."
+        },
+        {
+          "id": 93,
+          "topic": "Indian Air Force",
+          "question": "Which IAF training establishment is a specialised flying-instructor school?",
+          "options": {
+            "A": "AFA Dundigal",
+            "B": "FIS Tambaram",
+            "C": "AFTC Bengaluru",
+            "D": "AFRI Coimbatore"
+          },
+          "correct_answer": "B",
+          "explanation": "Correct option recorded in the supplied AFCAT 1 2025 Answer Key 02: B."
+        },
+        {
+          "id": 95,
+          "topic": "Government Initiatives",
+          "question": "Bharatpol portal, launched in January 2025 to strengthen international police cooperation, is administered by:",
+          "options": {
+            "A": "CBI",
+            "B": "MHA",
+            "C": "NIA",
+            "D": "IB"
+          },
+          "correct_answer": "A",
+          "explanation": "Correct option recorded in the supplied AFCAT 1 2025 Answer Key 02: A."
+        },
+        {
+          "id": 98,
+          "topic": "Government Schemes",
+          "question": "PM SHRI scheme, launched in September 2022, is focused on:",
+          "options": {
+            "A": "Upgrading select existing schools into model schools",
+            "B": "Direct financial transfer to farmers",
+            "C": "Reservation in higher education",
+            "D": "Digital literacy for elderly citizens"
+          },
+          "correct_answer": "A",
+          "explanation": "Correct option recorded in the supplied AFCAT 1 2025 Answer Key 02: A."
+        },
+        {
+          "id": 100,
+          "topic": "Defence – Indian Navy",
+          "question": "INS Vikramaditya, India's aircraft carrier, was acquired from and refitted in:",
+          "options": {
+            "A": "Russia (Sevmash Shipyard)",
+            "B": "France (Chantiers de l'Atlantique)",
+            "C": "Italy (Fincantieri)",
+            "D": "United Kingdom (Rosyth)"
+          },
+          "correct_answer": "A",
+          "explanation": "Correct option recorded in the supplied AFCAT 1 2025 Answer Key 02: A."
+        }
+      ]
+    },
+    {
+      "section_name": "Reasoning",
+      "total_questions": 23,
+      "total_marks": 23,
+      "questions": [
+        {
+          "id": 4,
+          "topic": "Direction and Distance",
+          "question": "[Direction Puzzle] A ground-crew technician marches 60 m due North, turns 45° right and marches 40√2 m, then turns 90° left and marches 40 m. Find net displacement.",
+          "options": {
+            "A": "100 m due North-East",
+            "B": "100 m due East",
+            "C": "60 m due East",
+            "D": "140 m North-East"
+          },
+          "correct_answer": "A",
+          "explanation": "Correct option recorded in the supplied AFCAT 1 2025 Answer Key 02: A."
+        },
+        {
+          "id": 8,
+          "topic": "Coding-Decoding",
+          "question": "If NASA is coded as 14-1-19-1 (alphabet positions) and rearranged in reverse, the same code for ISRO would be:",
+          "options": {
+            "A": "15-18-19-9",
+            "B": "19-15-18-9",
+            "C": "15-19-18-9",
+            "D": "9-19-18-15"
+          },
+          "correct_answer": "A",
+          "explanation": "Correct option recorded in the supplied AFCAT 1 2025 Answer Key 02: A."
+        },
+        {
+          "id": 12,
+          "topic": "Syllogism",
+          "question": "Statements: All quantum computers are advanced. Some advanced machines are experimental. No experimental machine is fully certified. Conclusions: I Some quantum computers are experimental. II Some advanced machines are not fully certified. III All experimental machines are advanced.",
+          "options": {
+            "A": "Only I follows",
+            "B": "Only II follows",
+            "C": "Only II and III follow",
+            "D": "All follow"
+          },
+          "correct_answer": "C",
+          "explanation": "Correct option recorded in the supplied AFCAT 1 2025 Answer Key 02: C."
+        },
+        {
+          "id": 16,
+          "topic": "Non-verbal Reasoning – Matrix",
+          "question": "[Visual Matrix] In each row, the number of horizontal bars inside an outline triangle increases by two left to right, with row base values 0, 1, 2. Identify missing bottom-right figure.",
+          "options": {
+            "A": "Triangle with 4 bars",
+            "B": "Triangle with 5 bars",
+            "C": "Triangle with 6 bars",
+            "D": "Inverted triangle with 4 bars"
+          },
+          "correct_answer": "C",
+          "explanation": "Correct option recorded in the supplied AFCAT 1 2025 Answer Key 02: C."
+        },
+        {
+          "id": 20,
+          "topic": "Blood Relations",
+          "question": "Neha said, 'His mother is the only daughter of the only brother of my grandmother.' How is the boy related to Neha?",
+          "options": {
+            "A": "Second cousin (twice removed)",
+            "B": "Nephew",
+            "C": "Uncle",
+            "D": "First cousin (once removed)"
+          },
+          "correct_answer": "A",
+          "explanation": "Correct option recorded in the supplied AFCAT 1 2025 Answer Key 02: A."
+        },
+        {
+          "id": 24,
+          "topic": "Direction and Distance",
+          "question": "[Direction Puzzle] A UAV flies 80 m East, 60 m North, 40 m West, 20 m South, then 40 m East. Find net displacement.",
+          "options": {
+            "A": "80 m",
+            "B": "100 m",
+            "C": "120 m",
+            "D": "140 m"
+          },
+          "correct_answer": "A",
+          "explanation": "Correct option recorded in the supplied AFCAT 1 2025 Answer Key 02: A."
+        },
+        {
+          "id": 28,
+          "topic": "Non-verbal Reasoning – Paper Folding",
+          "question": "[Paper Folding] A rectangular sheet is folded along its longer axis, then shorter axis. One triangular and one square punch are made near folded corner. How many visible punch marks after unfolding?",
+          "options": {
+            "A": "4 (2 triangles + 2 squares)",
+            "B": "6",
+            "C": "8 (4 triangles + 4 squares)",
+            "D": "2"
+          },
+          "correct_answer": "C",
+          "explanation": "Correct option recorded in the supplied AFCAT 1 2025 Answer Key 02: C."
+        },
+        {
+          "id": 32,
+          "topic": "Direction and Distance",
+          "question": "[Direction Puzzle] A drone flies along all vertices of a regular hexagon of side 30 m. Find total path length.",
+          "options": {
+            "A": "150 m",
+            "B": "180 m",
+            "C": "210 m",
+            "D": "240 m"
+          },
+          "correct_answer": "B",
+          "explanation": "Correct option recorded in the supplied AFCAT 1 2025 Answer Key 02: B."
+        },
+        {
+          "id": 36,
+          "topic": "Classification",
+          "question": "Choose the odd one out among ballistic-missile submarines/classes:",
+          "options": {
+            "A": "Arihant",
+            "B": "Arighaat",
+            "C": "Aridhaman",
+            "D": "Chakra"
+          },
+          "correct_answer": "D",
+          "explanation": "Correct option recorded in the supplied AFCAT 1 2025 Answer Key 02: D."
+        },
+        {
+          "id": 40,
+          "topic": "Ranking and Order",
+          "question": "In a row of 60 cadets facing north, M is 22nd from left and N is 18th from right. Four cadets are inserted between M and N. How many are then strictly between them?",
+          "options": {
+            "A": "23",
+            "B": "25",
+            "C": "24",
+            "D": "26"
+          },
+          "correct_answer": "C",
+          "explanation": "Correct option recorded in the supplied AFCAT 1 2025 Answer Key 02: C."
+        },
+        {
+          "id": 44,
+          "topic": "Venn Diagrams",
+          "question": "[Venn Diagram] Fighters, Multi-role Aircraft, Interceptors: all Interceptors are Fighters; some Fighters are Multi-role; some Multi-role Aircraft are not Fighters. Choose diagram.",
+          "options": {
+            "A": "Three concentric circles",
+            "B": "Fighters and Multi-role intersect; Interceptors wholly inside Fighters",
+            "C": "Three disjoint circles",
+            "D": "All three fully overlapping"
+          },
+          "correct_answer": "B",
+          "explanation": "Correct option recorded in the supplied AFCAT 1 2025 Answer Key 02: B."
+        },
+        {
+          "id": 53,
+          "topic": "Number Series",
+          "question": "Find missing term: 6, 14, 30, 62, 126, ?",
+          "options": {
+            "A": "254",
+            "B": "250",
+            "C": "252",
+            "D": "256"
+          },
+          "correct_answer": "A",
+          "explanation": "Each term is twice the previous term plus two: 126 × 2 + 2 = 254."
+        },
+        {
+          "id": 56,
+          "topic": "Analogy",
+          "question": "Analogy: Trigger : Firearm :: Reactor : ?",
+          "options": {
+            "A": "Nuclear Submarine",
+            "B": "Aircraft Carrier",
+            "C": "Power Plant",
+            "D": "Missile"
+          },
+          "correct_answer": "A",
+          "explanation": "Correct option recorded in the supplied AFCAT 1 2025 Answer Key 02: A."
+        },
+        {
+          "id": 57,
+          "topic": "Non-verbal Reasoning – Embedded Figures",
+          "question": "[Embedded Figure] Target is a small right-angled triangle with horizontal longer leg, vertical median from right-angle vertex and circle at vertex opposite hypotenuse. Identify embedded option.",
+          "options": {
+            "A": "Pentagon",
+            "B": "Hexagon with inscribed right triangle, median and vertex-circle",
+            "C": "Star polygon",
+            "D": "Concentric squares"
+          },
+          "correct_answer": "B",
+          "explanation": "Correct option recorded in the supplied AFCAT 1 2025 Answer Key 02: B."
+        },
+        {
+          "id": 61,
+          "topic": "Classification",
+          "question": "Choose the odd one out among defence PSUs:",
+          "options": {
+            "A": "HAL",
+            "B": "BEL",
+            "C": "BEML",
+            "D": "MDL"
+          },
+          "correct_answer": "C",
+          "explanation": "Correct option recorded in the supplied AFCAT 1 2025 Answer Key 02: C."
+        },
+        {
+          "id": 65,
+          "topic": "Coded Blood Relations",
+          "question": "P∆Q means P is father of Q; P★Q means P is wife of Q. Which expression means M is paternal grandmother of N?",
+          "options": {
+            "A": "M ★ P ∆ Q ∆ N",
+            "B": "M ★ P ∆ N",
+            "C": "M ∆ P ★ N",
+            "D": "P ∆ M ★ N"
+          },
+          "correct_answer": "A",
+          "explanation": "Correct option recorded in the supplied AFCAT 1 2025 Answer Key 02: A."
+        },
+        {
+          "id": 69,
+          "topic": "Number Pattern",
+          "question": "If 196→15, 324→20 and 441→23, then 625→?",
+          "options": {
+            "A": "26",
+            "B": "27",
+            "C": "28",
+            "D": "30"
+          },
+          "correct_answer": "B",
+          "explanation": "Correct option recorded in the supplied AFCAT 1 2025 Answer Key 02: B."
+        },
+        {
+          "id": 72,
+          "topic": "Alphanumeric Series",
+          "question": "Complete: A2C, D5F, G10I, J17L, ?",
+          "options": {
+            "A": "M26O",
+            "B": "N26O",
+            "C": "M25O",
+            "D": "M28O"
+          },
+          "correct_answer": "A",
+          "explanation": "Correct option recorded in the supplied AFCAT 1 2025 Answer Key 02: A."
+        },
+        {
+          "id": 76,
+          "topic": "Seating Arrangement – Circular",
+          "question": "[Circular Seating] Eight officers A–H face centre. A second left of B; C opposite A; D between C and E; F third right of A; G not adjacent to A. Who sits opposite E?",
+          "options": {
+            "A": "H",
+            "B": "B",
+            "C": "F",
+            "D": "Cannot be determined"
+          },
+          "correct_answer": "A",
+          "explanation": "Correct option recorded in the supplied AFCAT 1 2025 Answer Key 02: A."
+        },
+        {
+          "id": 80,
+          "topic": "Direction Sense",
+          "question": "In a rotated compass, North-East becomes North. Which direction now indicates the original West?",
+          "options": {
+            "A": "South-West",
+            "B": "North-West",
+            "C": "South",
+            "D": "West"
+          },
+          "correct_answer": "A",
+          "explanation": "Correct option recorded in the supplied AFCAT 1 2025 Answer Key 02: A."
+        },
+        {
+          "id": 84,
+          "topic": "Number Pair",
+          "question": "Find the odd number-pair:",
+          "options": {
+            "A": "27–3",
+            "B": "64–4",
+            "C": "125–5",
+            "D": "343–8"
+          },
+          "correct_answer": "A",
+          "explanation": "Correct option recorded in the supplied AFCAT 1 2025 Answer Key 02: A."
+        },
+        {
+          "id": 89,
+          "topic": "Number Series",
+          "question": "Complete: 1, 3, 9, 33, 153, ?",
+          "options": {
+            "A": "873",
+            "B": "873 (×6−3)",
+            "C": "871",
+            "D": "893"
+          },
+          "correct_answer": "B",
+          "explanation": "Correct option recorded in the supplied AFCAT 1 2025 Answer Key 02: B."
+        },
+        {
+          "id": 99,
+          "topic": "Number Series",
+          "question": "Complete: 5, 11, 24, 51, 106, ?",
+          "options": {
+            "A": "217",
+            "B": "215",
+            "C": "219",
+            "D": "213"
+          },
+          "correct_answer": "A",
+          "explanation": "Correct option recorded in the supplied AFCAT 1 2025 Answer Key 02: A."
+        }
+      ]
+    }
+  ],
+  "marking_scheme": {
+    "correct": 3,
+    "incorrect": -1,
+    "unattempted": 0
+  },
+  "duration_minutes": 120
+}

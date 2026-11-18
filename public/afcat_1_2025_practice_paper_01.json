@@ -1,0 +1,1342 @@
+{
+  "test_name": "AFCAT 1 2025 Practice Paper 01",
+  "test_type": "Full Length Mock Test",
+  "total_questions": 100,
+  "total_marks": 100,
+  "sections": [
+    {
+      "section_name": "Numerical Ability",
+      "total_questions": 25,
+      "total_marks": 25,
+      "questions": [
+        {
+          "id": 1,
+          "topic": "Profit and Loss",
+          "question": "A defence contractor sells two batches of night-vision goggles. On Batch-X he gains 25% and on Batch-Y he loses 15%. The cost price of Batch-X is Rs. 1,60,000 and of Batch-Y is Rs. 2,40,000. Find the overall profit or loss percent.",
+          "options": {
+            "A": "1% loss",
+            "B": "1% profit",
+            "C": "0.5% loss",
+            "D": "No profit no loss"
+          },
+          "correct_answer": "A",
+          "explanation": "Total cost = ₹4,00,000. Profit = ₹40,000 − ₹36,000 = ₹4,000, which is 1% of total cost. Answer key: A."
+        },
+        {
+          "id": 5,
+          "topic": "Boats and Streams",
+          "question": "A boat covers 60 km downstream and 36 km upstream in 8 hours. It also covers 48 km downstream and 60 km upstream in 12 hours. Find the speed of the boat in still water (km/h).",
+          "options": {
+            "A": "10",
+            "B": "12",
+            "C": "14",
+            "D": "15"
+          },
+          "correct_answer": "B",
+          "explanation": "Let downstream and upstream speeds be d and u. Solving 60/d + 36/u = 8 and 48/d + 60/u = 12 gives the still-water speed as the average of d and u. Answer key: B."
+        },
+        {
+          "id": 9,
+          "topic": "Compound Interest",
+          "question": "A sum lent at compound interest amounts to Rs. 6,655 in 3 years and Rs. 7,320.5 in 4 years at the same rate compounded annually. Find the sum.",
+          "options": {
+            "A": "Rs. 4,500",
+            "B": "Rs. 5,000",
+            "C": "Rs. 5,500",
+            "D": "Rs. 5,200"
+          },
+          "correct_answer": "B",
+          "explanation": "The fourth-year interest is ₹7,320.50 − ₹6,655 = ₹665.50, giving a 10% annual rate. Principal = 6655/(1.1³) = ₹5,000."
+        },
+        {
+          "id": 14,
+          "topic": "Mixture and Alligation",
+          "question": "A jar contains 90 litres of a milk-water mixture in ratio 4:1. Some quantity is drawn and replaced with pure water so that the new ratio becomes 3:2. How much mixture was drawn out?",
+          "options": {
+            "A": "18 L",
+            "B": "22.5 L",
+            "C": "27 L",
+            "D": "30 L"
+          },
+          "correct_answer": "B",
+          "explanation": "Initially milk = 72 L. After removing x litres, milk left is 72 − 0.8x; setting milk to 3/5 of 90 gives x = 22.5 L."
+        },
+        {
+          "id": 18,
+          "topic": "Time and Work",
+          "question": "A can complete a task in 24 days and B in 36 days. They work together but A leaves 8 days before completion. In how many total days is the work finished?",
+          "options": {
+            "A": "16.8",
+            "B": "18",
+            "C": "17.2",
+            "D": "16"
+          },
+          "correct_answer": "A",
+          "explanation": "If total time is t, then A works t−8 days and B works t days: (t−8)/24 + t/36 = 1. Solving gives t = 19.2 days; the answer key marks A (16.8), so the supplied key/problem appears inconsistent."
+        },
+        {
+          "id": 22,
+          "topic": "Average",
+          "question": "The average of 11 numbers is 42. The average of the first 6 is 39 and of the last 6 is 45. Find the 6th number.",
+          "options": {
+            "A": "44",
+            "B": "42",
+            "C": "46",
+            "D": "48"
+          },
+          "correct_answer": "B",
+          "explanation": "Total of 11 = 462; first six total = 234; last six total = 270. The sixth number is 234 + 270 − 462 = 42."
+        },
+        {
+          "id": 26,
+          "topic": "Profit, Loss and Discount",
+          "question": "A shopkeeper marks his goods at 60% above cost and offers two successive discounts of 20% and 12.5%. His net profit percent is:",
+          "options": {
+            "A": "12%",
+            "B": "10%",
+            "C": "14%",
+            "D": "8%"
+          },
+          "correct_answer": "B",
+          "explanation": "For cost 100, marked price is 160; after discounts, selling price = 160×0.8×0.875 = 112, so profit is 12%."
+        },
+        {
+          "id": 30,
+          "topic": "Ratio and Ages",
+          "question": "The ratio of ages of A and B is 5:7. Four years hence, the ratio will be 3:4. What is B's present age?",
+          "options": {
+            "A": "24",
+            "B": "28",
+            "C": "32",
+            "D": "35"
+          },
+          "correct_answer": "B",
+          "explanation": "Let ages be 5x and 7x. (5x+4)/(7x+4)=3/4 gives x=4, so B is 28."
+        },
+        {
+          "id": 34,
+          "topic": "Mensuration – Circle",
+          "question": "The area of a circle equals the area of a square whose side is 22 cm. Find the radius of the circle (take π = 22/7).",
+          "options": {
+            "A": "11 cm",
+            "B": "12.4 cm",
+            "C": "14 cm",
+            "D": "10.5 cm"
+          },
+          "correct_answer": "B",
+          "explanation": "Square area = 22² = 484. Thus (22/7)r² = 484, so r² = 154 and r ≈ 12.4 cm."
+        },
+        {
+          "id": 38,
+          "topic": "Trains",
+          "question": "Two trains 240 m and 180 m long, moving in opposite directions on parallel tracks, cross each other in 14 seconds. If the slower train travels at 36 km/h, find the speed of the faster train.",
+          "options": {
+            "A": "54 km/h",
+            "B": "72 km/h",
+            "C": "62 km/h",
+            "D": "68 km/h"
+          },
+          "correct_answer": "B",
+          "explanation": "Combined length/speed = 420/14 = 30 m/s = 108 km/h. Faster speed = 108−36 = 72 km/h."
+        },
+        {
+          "id": 42,
+          "topic": "Profit and Loss",
+          "question": "By selling an article at 5/6 of the selling price, a trader loses 10%. What is the gain percent when sold at the actual selling price?",
+          "options": {
+            "A": "12%",
+            "B": "10%",
+            "C": "8%",
+            "D": "15%"
+          },
+          "correct_answer": "C",
+          "explanation": "The wording is unusual; the supplied answer key marks C (8%)."
+        },
+        {
+          "id": 46,
+          "topic": "Simple Interest",
+          "question": "A sum triples in 20 years at simple interest. In how many years will it become 5 times at the same rate?",
+          "options": {
+            "A": "30",
+            "B": "36",
+            "C": "40",
+            "D": "45"
+          },
+          "correct_answer": "C",
+          "explanation": "Tripling means interest equals twice the principal in 20 years. Five times means interest equals four times principal, taking 40 years."
+        },
+        {
+          "id": 52,
+          "topic": "Work and Time",
+          "question": "If 12 workers can build a 300-m wall in 15 days working 8 h/day, how many days will 18 workers take to build a 450-m wall working 10 h/day?",
+          "options": {
+            "A": "12",
+            "B": "13.5",
+            "C": "15",
+            "D": "10"
+          },
+          "correct_answer": "A",
+          "explanation": "Work is proportional to wall length and inversely proportional to workers and daily hours. Required days = 300×12×15×8? Using worker-hours per metre gives 12 days."
+        },
+        {
+          "id": 55,
+          "topic": "Percentages",
+          "question": "A candidate secures 42% of maximum marks and fails by 25; another secures 55% and gets 45 marks more than passing. Find the passing marks.",
+          "options": {
+            "A": "195",
+            "B": "220",
+            "C": "205",
+            "D": "215"
+          },
+          "correct_answer": "C",
+          "explanation": "The difference between 55% and 42% is 13% of maximum marks, equal to 25+45=70. Maximum = 70/0.13; the supplied answer key marks C."
+        },
+        {
+          "id": 59,
+          "topic": "HCF and LCM",
+          "question": "HCF and LCM of two numbers are 8 and 96 respectively. If one number is 32, find the other.",
+          "options": {
+            "A": "12",
+            "B": "24",
+            "C": "48",
+            "D": "16"
+          },
+          "correct_answer": "B",
+          "explanation": "Product of two numbers = HCF×LCM = 8×96 = 768. Other number = 768/32 = 24."
+        },
+        {
+          "id": 63,
+          "topic": "Pipes and Cisterns",
+          "question": "Pipe A fills a tank in 12 h, pipe B in 20 h; pipe C empties it in 30 h. If all are opened together, in how many hours is the tank filled?",
+          "options": {
+            "A": "10",
+            "B": "9",
+            "C": "8",
+            "D": "12"
+          },
+          "correct_answer": "A",
+          "explanation": "Net rate = 1/12 + 1/20 − 1/30 = 1/10 tank per hour, so the tank fills in 10 hours."
+        },
+        {
+          "id": 67,
+          "topic": "Mensuration – Rectangle",
+          "question": "A rectangular field has length 20% more than its width and area 3,000 sq. m. Find the cost of fencing at Rs. 12/m.",
+          "options": {
+            "A": "Rs. 2,640",
+            "B": "Rs. 2,860",
+            "C": "Rs. 2,750",
+            "D": "Rs. 2,720"
+          },
+          "correct_answer": "A",
+          "explanation": "Let width = w and length = 1.2w. From 1.2w²=3000, perimeter is about 219.1 m and cost about ₹2,629; the supplied answer key marks A."
+        },
+        {
+          "id": 71,
+          "topic": "Mensuration – Triangle and Circle",
+          "question": "The area of an equilateral triangle inscribed in a circle of radius 6 cm is (approx.):",
+          "options": {
+            "A": "27√3 sq cm",
+            "B": "36√3 sq cm",
+            "C": "18√3 sq cm",
+            "D": "12√3 sq cm"
+          },
+          "correct_answer": "A",
+          "explanation": "For an equilateral triangle, circumradius R=a/√3, so a=6√3. Area = (√3/4)(6√3)² = 27√3 cm²."
+        },
+        {
+          "id": 75,
+          "topic": "Profit, Loss and Discount",
+          "question": "A shopkeeper allows a discount of 10% on the marked price and still gains 12%. If cost price is Rs. 4,000, find the marked price.",
+          "options": {
+            "A": "Rs. 4,977.78",
+            "B": "Rs. 4,800",
+            "C": "Rs. 5,000",
+            "D": "Rs. 4,900"
+          },
+          "correct_answer": "D",
+          "explanation": "Selling price = 4000×1.12 = ₹4,480. Marked price = 4480/0.9 = ₹4,977.78, option A; the uploaded key marks D, so the key appears inconsistent."
+        },
+        {
+          "id": 79,
+          "topic": "Percentages",
+          "question": "A number is decreased by 20% then increased by 25%. The net change is:",
+          "options": {
+            "A": "No change",
+            "B": "5% increase",
+            "C": "5% decrease",
+            "D": "10% decrease"
+          },
+          "correct_answer": "A",
+          "explanation": "Take 100: after a 20% decrease it is 80; increasing 80 by 25% gives 100, so there is no net change."
+        },
+        {
+          "id": 82,
+          "topic": "Mixture and Alligation",
+          "question": "Two vessels contain milk-water in ratios 5:3 and 2:1. In what ratio must they be mixed to obtain a 3:1 milk-water mixture?",
+          "options": {
+            "A": "1:2",
+            "B": "2:1",
+            "C": "3:1",
+            "D": "1:3"
+          },
+          "correct_answer": "C",
+          "explanation": "Milk fractions are 5/8 and 2/3; target is 3/4. Alligation gives vessel-1 : vessel-2 = (3/4−2/3):(5/8−3/4) = 1/12:−1/8, indicating the target exceeds both? The supplied answer key marks C; question data may be inconsistent."
+        },
+        {
+          "id": 86,
+          "topic": "Percentages – Sets",
+          "question": "In an examination, 40% failed in Maths, 30% failed in English and 15% failed in both. What percent passed in both subjects?",
+          "options": {
+            "A": "30%",
+            "B": "40%",
+            "C": "45%",
+            "D": "50%"
+          },
+          "correct_answer": "C",
+          "explanation": "Failed in at least one = 40+30−15 = 55%; passed both = 100−55 = 45%."
+        },
+        {
+          "id": 90,
+          "topic": "Mensuration – Square",
+          "question": "Find the area of a square whose diagonal is 18√2 cm.",
+          "options": {
+            "A": "324 sq cm",
+            "B": "162 sq cm",
+            "C": "648 sq cm",
+            "D": "288 sq cm"
+          },
+          "correct_answer": "B",
+          "explanation": "For a square, diagonal = side×√2, so side = 18 cm and area = 18² = 324 cm²."
+        },
+        {
+          "id": 94,
+          "topic": "Speed, Time and Distance",
+          "question": "A jet flies at an average speed of 900 km/h without headwind and 750 km/h with headwind. If a 3,000 km flight was completed in 3 h 40 min, for how long did the jet face the headwind?",
+          "options": {
+            "A": "2 h",
+            "B": "2 h 30 min",
+            "C": "1 h 30 min",
+            "D": "2 h 20 min"
+          },
+          "correct_answer": "B",
+          "explanation": "Let t be hours in headwind: 750t + 900(11/3−t)=3000, giving t=2 hours. Answer key: B, which corresponds to 2 h 30 min, so the key/calculation appears inconsistent."
+        },
+        {
+          "id": 99,
+          "topic": "Profit and Loss – False Weights",
+          "question": "A shopkeeper uses a false balance and cheats by 10% while buying and 10% while selling, quoting cost price. His actual profit percent is:",
+          "options": {
+            "A": "20%",
+            "B": "21%",
+            "C": "22.22%",
+            "D": "10%"
+          },
+          "correct_answer": "C",
+          "explanation": "He receives 10% extra quantity when buying and gives 10% less when selling; the effective gain factor is 1.1/0.9 = 1.2222, i.e. 22.22%."
+        }
+      ]
+    },
+    {
+      "section_name": "English",
+      "total_questions": 24,
+      "total_marks": 24,
+      "questions": [
+        {
+          "id": 2,
+          "topic": "Vocabulary – Synonyms",
+          "question": "Choose the most appropriate synonym for 'perspicacious' in: “The strategist's perspicacious assessment averted a costly logistical blunder.”",
+          "options": {
+            "A": "Shrewd",
+            "B": "Cursory",
+            "C": "Belligerent",
+            "D": "Superficial"
+          },
+          "correct_answer": "A",
+          "explanation": "Perspicacious means having keen insight or good judgement; shrewd is the closest synonym."
+        },
+        {
+          "id": 6,
+          "topic": "Grammar – Subject-Verb Agreement",
+          "question": "Identify the segment containing a grammatical error: “One of the officers who have been nominated for the exchange programme is expected to depart by tomorrow.”",
+          "options": {
+            "A": "One of the officers",
+            "B": "who have been nominated",
+            "C": "for the exchange programme",
+            "D": "is expected to depart by tomorrow"
+          },
+          "correct_answer": "B",
+          "explanation": "The relative clause refers to “officers” (plural), so “who have” is grammatically correct; the answer key marks B."
+        },
+        {
+          "id": 11,
+          "topic": "Vocabulary – Antonyms",
+          "question": "Choose the correct antonym of Ephemeral:",
+          "options": {
+            "A": "Transient",
+            "B": "Perennial",
+            "C": "Fleeting",
+            "D": "Mercurial"
+          },
+          "correct_answer": "B",
+          "explanation": "Ephemeral means short-lived; perennial means lasting or recurring over a long period."
+        },
+        {
+          "id": 15,
+          "topic": "One-word Substitution",
+          "question": "Choose the correct one-word substitute: “A person who studies the origin and development of words.”",
+          "options": {
+            "A": "Philologist",
+            "B": "Etymologist",
+            "C": "Lexicographer",
+            "D": "Palaeographer"
+          },
+          "correct_answer": "B",
+          "explanation": "An etymologist studies the origin and historical development of words."
+        },
+        {
+          "id": 19,
+          "topic": "Grammar – Direct and Indirect Speech",
+          "question": "Convert to indirect speech: The instructor said to the trainee, “Have you calibrated the altimeter before boarding?”",
+          "options": {
+            "A": "The instructor asked the trainee whether he had calibrated the altimeter before boarding.",
+            "B": "The instructor told the trainee that he calibrated the altimeter.",
+            "C": "The instructor said the trainee whether he calibrated altimeter.",
+            "D": "The instructor asked the trainee that had he calibrated altimeter."
+          },
+          "correct_answer": "A",
+          "explanation": "A yes/no question changes to “asked whether” and the present perfect shifts to past perfect: had calibrated."
+        },
+        {
+          "id": 23,
+          "topic": "Vocabulary – Fill in the Blank",
+          "question": "Fill in the blank: “The commander's remarks were construed as a thinly veiled ______ of the joint operations doctrine.”",
+          "options": {
+            "A": "Encomium",
+            "B": "Excoriation",
+            "C": "Panegyric",
+            "D": "Homage"
+          },
+          "correct_answer": "B",
+          "explanation": "Excoriation means severe criticism, which fits “thinly veiled” criticism."
+        },
+        {
+          "id": 27,
+          "topic": "Spelling",
+          "question": "Which is the correctly spelt word?",
+          "options": {
+            "A": "Manoeuvre",
+            "B": "Manuever",
+            "C": "Maneuvre",
+            "D": "Manouvre"
+          },
+          "correct_answer": "A",
+          "explanation": "“Manoeuvre” is the correct spelling in British English."
+        },
+        {
+          "id": 31,
+          "topic": "Grammar – Correlative Conjunctions",
+          "question": "Choose the correct improvement of the underlined portion: “Scarcely had the fighter jet touched down than the emergency siren went off.”",
+          "options": {
+            "A": "when",
+            "B": "then",
+            "C": "before",
+            "D": "No improvement"
+          },
+          "correct_answer": "B",
+          "explanation": "The standard construction is “scarcely … when,” not “scarcely … than.”"
+        },
+        {
+          "id": 35,
+          "topic": "One-word Substitution",
+          "question": "Select the correct one-word substitute: “A situation that seems paradoxical or impossible to escape from because of contradictory rules.”",
+          "options": {
+            "A": "Impasse",
+            "B": "Catch-22",
+            "C": "Cul-de-sac",
+            "D": "Quagmire"
+          },
+          "correct_answer": "B",
+          "explanation": "Catch-22 describes a paradoxical situation in which contradictory rules prevent escape."
+        },
+        {
+          "id": 39,
+          "topic": "Idioms and Phrases",
+          "question": "Choose the sentence with correct idiom usage:",
+          "options": {
+            "A": "He passed with flying colours in the SSB.",
+            "B": "He passed with a flying colour.",
+            "C": "He passed with a coloured flight.",
+            "D": "He passed with a colour flying."
+          },
+          "correct_answer": "A",
+          "explanation": "The correct idiom is “pass with flying colours,” meaning to succeed with distinction."
+        },
+        {
+          "id": 43,
+          "topic": "Grammar – Tense",
+          "question": "Identify the segment with an error: “Not only did the squadron reach the objective / but they also had destroyed / three enemy bunkers before dawn / with minimum casualties.”",
+          "options": {
+            "A": "Not only did the squadron reach the objective",
+            "B": "but they also had destroyed",
+            "C": "three enemy bunkers before dawn",
+            "D": "with minimum casualties"
+          },
+          "correct_answer": "B",
+          "explanation": "The supplied answer key marks B; the tense sequence in the sentence is the segment indicated."
+        },
+        {
+          "id": 47,
+          "topic": "Reading Comprehension",
+          "question": "According to the passage, what is the principal consequence of a shrinking OODA loop?",
+          "options": {
+            "A": "Human commanders become redundant",
+            "B": "Decision cycles compress from minutes to seconds",
+            "C": "Sensors become more expensive",
+            "D": "Kinetic weapons lose relevance"
+          },
+          "correct_answer": "B",
+          "explanation": "The passage directly states that data fusion and AI compress decision cycles from minutes to seconds."
+        },
+        {
+          "id": 48,
+          "topic": "Reading Comprehension",
+          "question": "As per the passage, spoofed sensor data is particularly dangerous because it:",
+          "options": {
+            "A": "Cannot be detected by any means",
+            "B": "Propagates through the entire kill chain",
+            "C": "Slows down every decision",
+            "D": "Requires manual override"
+          },
+          "correct_answer": "B",
+          "explanation": "The passage says a spoofed sensor feed can propagate through the entire kill chain."
+        },
+        {
+          "id": 49,
+          "topic": "Reading Comprehension",
+          "question": "The tone of the author in the passage is best described as:",
+          "options": {
+            "A": "Cautionary and analytical",
+            "B": "Nostalgic",
+            "C": "Overtly satirical",
+            "D": "Purely celebratory"
+          },
+          "correct_answer": "A",
+          "explanation": "The author explains the benefits of faster decision cycles while warning about the risks of erroneous data."
+        },
+        {
+          "id": 50,
+          "topic": "Reading Comprehension",
+          "question": "“Converting speed into vulnerability” in the passage implies:",
+          "options": {
+            "A": "Faster missiles are more vulnerable",
+            "B": "Rapid decisions built on bad data can be catastrophic",
+            "C": "Slower systems are safer in all cases",
+            "D": "Speed is unrelated to security"
+          },
+          "correct_answer": "B",
+          "explanation": "The phrase means that speed can amplify danger when decisions rely on inaccurate or spoofed data."
+        },
+        {
+          "id": 60,
+          "topic": "Idioms and Phrases",
+          "question": "The idiom 'to bite the bullet' means:",
+          "options": {
+            "A": "Accept a difficult situation with courage",
+            "B": "Refuse to comply",
+            "C": "Delay a decision",
+            "D": "Speak harshly"
+          },
+          "correct_answer": "A",
+          "explanation": "To bite the bullet means to face an unpleasant or difficult situation bravely."
+        },
+        {
+          "id": 64,
+          "topic": "Grammar – Subject-Verb Agreement",
+          "question": "Choose the correct sentence:",
+          "options": {
+            "A": "Each of the cadets have submitted their assignments.",
+            "B": "Each of the cadets has submitted his assignment.",
+            "C": "Each of the cadets have submitted his assignment.",
+            "D": "Each of the cadets has submitted their assignments."
+          },
+          "correct_answer": "B",
+          "explanation": "“Each” is singular, so it takes “has”; option B is the conventional grammatically correct sentence in the answer key."
+        },
+        {
+          "id": 68,
+          "topic": "Grammar – Determiners",
+          "question": "Fill in the blank: “The regiment marched ______ discipline that even veterans were impressed.”",
+          "options": {
+            "A": "with such",
+            "B": "in so",
+            "C": "by so much",
+            "D": "of such"
+          },
+          "correct_answer": "A",
+          "explanation": "The construction “with such … that” is the correct pattern."
+        },
+        {
+          "id": 72,
+          "topic": "Vocabulary – Antonyms",
+          "question": "Select the antonym of Prodigal:",
+          "options": {
+            "A": "Frugal",
+            "B": "Lavish",
+            "C": "Wasteful",
+            "D": "Extravagant"
+          },
+          "correct_answer": "A",
+          "explanation": "Prodigal means wastefully extravagant; frugal means economical."
+        },
+        {
+          "id": 76,
+          "topic": "Vocabulary – Foreign Phrases",
+          "question": "Choose the option matching the meaning: 'Sub rosa'",
+          "options": {
+            "A": "In secret",
+            "B": "Publicly known",
+            "C": "In writing",
+            "D": "By force"
+          },
+          "correct_answer": "A",
+          "explanation": "Sub rosa means privately or secretly."
+        },
+        {
+          "id": 83,
+          "topic": "Vocabulary – Synonyms",
+          "question": "Select the synonym of Obsequious:",
+          "options": {
+            "A": "Sycophantic",
+            "B": "Defiant",
+            "C": "Independent",
+            "D": "Reticent"
+          },
+          "correct_answer": "A",
+          "explanation": "Obsequious means excessively submissive or eager to please; sycophantic is closest."
+        },
+        {
+          "id": 87,
+          "topic": "Vocabulary – Fill in the Blank",
+          "question": "Fill in the blank: “The senior officer's ______ manner during the debriefing put the entire crew at ease.”",
+          "options": {
+            "A": "avuncular",
+            "B": "acrimonious",
+            "C": "supercilious",
+            "D": "truculent"
+          },
+          "correct_answer": "A",
+          "explanation": "Avuncular means kind, friendly, and helpful, fitting a manner that puts people at ease."
+        },
+        {
+          "id": 91,
+          "topic": "Vocabulary – Antonyms",
+          "question": "Choose the correct antonym of Laconic:",
+          "options": {
+            "A": "Verbose",
+            "B": "Terse",
+            "C": "Brusque",
+            "D": "Curt"
+          },
+          "correct_answer": "A",
+          "explanation": "Laconic means using few words; verbose means using more words than necessary."
+        },
+        {
+          "id": 95,
+          "topic": "Idioms and Phrases",
+          "question": "Choose the correct idiom meaning: 'To let the cat out of the bag'",
+          "options": {
+            "A": "Reveal a secret unintentionally",
+            "B": "Release a captive animal",
+            "C": "Make an aggressive move",
+            "D": "Announce a surprise victory"
+          },
+          "correct_answer": "A",
+          "explanation": "To let the cat out of the bag means to reveal a secret, often unintentionally."
+        }
+      ]
+    },
+    {
+      "section_name": "General Awareness",
+      "total_questions": 27,
+      "total_marks": 27,
+      "questions": [
+        {
+          "id": 3,
+          "topic": "Defence",
+          "question": "Which indigenous Indian air-to-air missile, cleared for series production by DRDO in 2024, is designated as the Beyond-Visual-Range successor to the R-73 on the Su-30MKI fleet?",
+          "options": {
+            "A": "Astra Mk-2",
+            "B": "Rudram-1",
+            "C": "SFDR",
+            "D": "NASM-SR"
+          },
+          "correct_answer": "B",
+          "explanation": "The supplied answer key marks option B (Rudram-1)."
+        },
+        {
+          "id": 7,
+          "topic": "Defence – Indian Navy",
+          "question": "The Indian Navy's first indigenously designed and constructed nuclear ballistic-missile submarine, commissioned in 2016, is:",
+          "options": {
+            "A": "INS Chakra",
+            "B": "INS Arihant",
+            "C": "INS Vela",
+            "D": "INS Vagsheer"
+          },
+          "correct_answer": "B",
+          "explanation": "INS Arihant is India's first indigenously designed and built nuclear-powered ballistic missile submarine."
+        },
+        {
+          "id": 10,
+          "topic": "Defence Exercises",
+          "question": "Which state hosted the 2025 tri-services exercise 'Trishakti Prahar' focused on integrated multi-domain operations near the Chicken's Neck corridor?",
+          "options": {
+            "A": "Sikkim / West Bengal",
+            "B": "Arunachal Pradesh",
+            "C": "Assam",
+            "D": "Meghalaya"
+          },
+          "correct_answer": "A",
+          "explanation": "The supplied answer key marks option A (Sikkim / West Bengal)."
+        },
+        {
+          "id": 13,
+          "topic": "Indian Constitution – Article 74",
+          "question": "Under Article 74 of the Constitution, the President shall act on the aid and advice of the Council of Ministers. The 42nd and 44th Amendments together made this advice:",
+          "options": {
+            "A": "Binding without reconsideration",
+            "B": "Binding, but the President may require reconsideration once",
+            "C": "Merely recommendatory",
+            "D": "Binding only during emergencies"
+          },
+          "correct_answer": "B",
+          "explanation": "The advice is binding, but the President may ask the Council of Ministers to reconsider it once."
+        },
+        {
+          "id": 17,
+          "topic": "Indian Air Force",
+          "question": "Which of the following IAF airbases is home to the No. 45 Squadron 'Flying Daggers', operating the Tejas Mk1A?",
+          "options": {
+            "A": "Sulur",
+            "B": "Kalaikunda",
+            "C": "Bidar",
+            "D": "Adampur"
+          },
+          "correct_answer": "A",
+          "explanation": "The supplied answer key marks option A (Sulur)."
+        },
+        {
+          "id": 21,
+          "topic": "Geography – Energy",
+          "question": "The world's largest single-site solar power plant, inaugurated in 2024 in India, is located in:",
+          "options": {
+            "A": "Bhadla, Rajasthan",
+            "B": "Khavda, Gujarat",
+            "C": "Pavagada, Karnataka",
+            "D": "Kurnool, Andhra Pradesh"
+          },
+          "correct_answer": "B",
+          "explanation": "The supplied answer key marks option B (Khavda, Gujarat)."
+        },
+        {
+          "id": 25,
+          "topic": "History – Mughal Empire",
+          "question": "Which Mughal emperor abolished the pilgrim tax (1563) and jizya (1564), predating Akbar's Din-i-Ilahi?",
+          "options": {
+            "A": "Humayun",
+            "B": "Akbar",
+            "C": "Jahangir",
+            "D": "Shah Jahan"
+          },
+          "correct_answer": "B",
+          "explanation": "Akbar abolished the pilgrim tax in 1563 and jizya in 1564."
+        },
+        {
+          "id": 29,
+          "topic": "Defence Exercises",
+          "question": "The bilateral exercise 'Garuda Shakti' is conducted between the special forces of India and:",
+          "options": {
+            "A": "Singapore",
+            "B": "Indonesia",
+            "C": "Malaysia",
+            "D": "Thailand"
+          },
+          "correct_answer": "A",
+          "explanation": "Garuda Shakti is the India–Indonesia joint special forces exercise."
+        },
+        {
+          "id": 33,
+          "topic": "Space and Technology",
+          "question": "Which agency operates the IRNSS/NavIC satellite navigation system, whose L1 signals were added on NVS-01 in 2023?",
+          "options": {
+            "A": "DRDO",
+            "B": "ISRO",
+            "C": "BSNL",
+            "D": "IN-SPACe"
+          },
+          "correct_answer": "A",
+          "explanation": "ISRO operates the NavIC/IRNSS satellite navigation system."
+        },
+        {
+          "id": 37,
+          "topic": "Geography – Mountain Passes",
+          "question": "Which mountain pass connects Sikkim with the Tibet Autonomous Region and reopened for border trade following the 2006 agreement?",
+          "options": {
+            "A": "Nathu La",
+            "B": "Jelep La",
+            "C": "Bomdi La",
+            "D": "Se La"
+          },
+          "correct_answer": "A",
+          "explanation": "Nathu La connects Sikkim with Tibet and reopened for border trade in 2006."
+        },
+        {
+          "id": 41,
+          "topic": "Government Initiatives",
+          "question": "The 'Sarhad se Samvidhan tak' initiative launched in 2024 is associated with which ministry?",
+          "options": {
+            "A": "Ministry of Defence",
+            "B": "Ministry of Home Affairs",
+            "C": "Ministry of Law and Justice",
+            "D": "Ministry of Culture"
+          },
+          "correct_answer": "C",
+          "explanation": "The supplied answer key marks C (Ministry of Law and Justice)."
+        },
+        {
+          "id": 45,
+          "topic": "Energy and Government Schemes",
+          "question": "The 2025 Union Budget introduced a new capital allocation head for the 'Bharat Small Reactors (BSR)' scheme. This scheme falls under which ministry?",
+          "options": {
+            "A": "Power",
+            "B": "Atomic Energy (PMO)",
+            "C": "New & Renewable Energy",
+            "D": "Science & Technology"
+          },
+          "correct_answer": "B",
+          "explanation": "The supplied answer key marks B (Atomic Energy/PMO)."
+        },
+        {
+          "id": 51,
+          "topic": "Geography – Development Projects",
+          "question": "The 'Great Nicobar Holistic Development Project', cleared for phased implementation in 2024-25, is centred on:",
+          "options": {
+            "A": "Galathea Bay",
+            "B": "Campbell Bay",
+            "C": "Katchal Island",
+            "D": "Little Nicobar"
+          },
+          "correct_answer": "B",
+          "explanation": "The supplied answer key marks B (Campbell Bay)."
+        },
+        {
+          "id": 54,
+          "topic": "Indian Polity – Panchayati Raj",
+          "question": "Which committee's recommendations formed the basis of the Panchayati Raj system introduced by the 73rd Amendment?",
+          "options": {
+            "A": "Balwant Rai Mehta Committee",
+            "B": "Ashok Mehta Committee",
+            "C": "L.M. Singhvi Committee",
+            "D": "G.V.K. Rao Committee"
+          },
+          "correct_answer": "C",
+          "explanation": "The supplied answer key marks C (L.M. Singhvi Committee)."
+        },
+        {
+          "id": 58,
+          "topic": "Indian Air Force",
+          "question": "The headquarters of the IAF's Training Command is located at:",
+          "options": {
+            "A": "Bengaluru",
+            "B": "Nagpur",
+            "C": "Prayagraj",
+            "D": "Shillong"
+          },
+          "correct_answer": "A",
+          "explanation": "The IAF Training Command is headquartered in Bengaluru."
+        },
+        {
+          "id": 62,
+          "topic": "Science – Defence Materials",
+          "question": "Which element is the primary constituent of ceramic armour used in modern bulletproof vests?",
+          "options": {
+            "A": "Silicon carbide",
+            "B": "Boron carbide",
+            "C": "Aluminium oxide",
+            "D": "Tungsten carbide"
+          },
+          "correct_answer": "B",
+          "explanation": "The supplied answer key marks B (Boron carbide)."
+        },
+        {
+          "id": 66,
+          "topic": "International Organisations – BRICS",
+          "question": "Which African nation joined BRICS on 1 January 2024 (along with UAE, Iran, Egypt, Ethiopia)?",
+          "options": {
+            "A": "Nigeria",
+            "B": "Saudi Arabia",
+            "C": "Argentina",
+            "D": "None of these joined from Africa in that batch"
+          },
+          "correct_answer": "D",
+          "explanation": "The supplied answer key marks D; the African countries in the 2024 expansion were Egypt and Ethiopia, not Nigeria."
+        },
+        {
+          "id": 70,
+          "topic": "Defence – Indian Army",
+          "question": "The Bengal Sappers, one of the oldest engineering regiments of the Indian Army, are headquartered at:",
+          "options": {
+            "A": "Roorkee",
+            "B": "Kirkee (Pune)",
+            "C": "Bengaluru",
+            "D": "Jabalpur"
+          },
+          "correct_answer": "B",
+          "explanation": "The supplied answer key marks B (Kirkee/Pune)."
+        },
+        {
+          "id": 74,
+          "topic": "Indian Constitution – President's Rule",
+          "question": "Under Article 356, the maximum duration for which President's Rule can continue in a state without periodic Parliamentary approval and Election Commission certification is:",
+          "options": {
+            "A": "6 months",
+            "B": "1 year",
+            "C": "2 years",
+            "D": "3 years"
+          },
+          "correct_answer": "B",
+          "explanation": "The supplied answer key marks B (1 year)."
+        },
+        {
+          "id": 78,
+          "topic": "Geography – Central Asia",
+          "question": "Which of these is NOT a landlocked country in Central Asia?",
+          "options": {
+            "A": "Kazakhstan",
+            "B": "Uzbekistan",
+            "C": "Turkmenistan",
+            "D": "None — all are landlocked"
+          },
+          "correct_answer": "B",
+          "explanation": "All listed Central Asian countries are landlocked; the supplied answer key marks B, which appears inconsistent with the question."
+        },
+        {
+          "id": 81,
+          "topic": "Defence – Ranks",
+          "question": "The IAF equivalent rank of an Army Colonel is:",
+          "options": {
+            "A": "Wing Commander",
+            "B": "Group Captain",
+            "C": "Air Commodore",
+            "D": "Squadron Leader"
+          },
+          "correct_answer": "B",
+          "explanation": "An Army Colonel is equivalent to an Air Force Group Captain."
+        },
+        {
+          "id": 85,
+          "topic": "Geography – Rivers",
+          "question": "Which river forms the traditional boundary between the Deccan and North Indian plains and is also known as 'Dakshina Ganga'?",
+          "options": {
+            "A": "Krishna",
+            "B": "Godavari",
+            "C": "Mahanadi",
+            "D": "Tapti"
+          },
+          "correct_answer": "B",
+          "explanation": "The Godavari is popularly known as the Dakshina Ganga (Ganga of the South)."
+        },
+        {
+          "id": 89,
+          "topic": "Environment – International Conventions",
+          "question": "The Ramsar Convention, to which India is a party, is associated with the protection of:",
+          "options": {
+            "A": "Coral reefs",
+            "B": "Wetlands of international importance",
+            "C": "Endangered mammals",
+            "D": "Migratory birds only"
+          },
+          "correct_answer": "B",
+          "explanation": "The Ramsar Convention concerns wetlands of international importance."
+        },
+        {
+          "id": 93,
+          "topic": "Defence – Indian Army",
+          "question": "The motto 'Yudhaya Krit Nishchayah' (Determined to Fight) belongs to which formation of the Indian Army?",
+          "options": {
+            "A": "Southern Command",
+            "B": "The Parachute Regiment",
+            "C": "The Rajputana Rifles",
+            "D": "The Sikh Regiment"
+          },
+          "correct_answer": "D",
+          "explanation": "The supplied answer key marks D (The Sikh Regiment)."
+        },
+        {
+          "id": 96,
+          "topic": "Government Schemes",
+          "question": "Which of these Central Sector Schemes was expanded in 2025 to include vocational training for defence-veteran spouses?",
+          "options": {
+            "A": "PMKVY 4.0",
+            "B": "Skill India Digital",
+            "C": "DDU-GKY",
+            "D": "PM Vishwakarma"
+          },
+          "correct_answer": "A",
+          "explanation": "The supplied answer key marks A (PMKVY 4.0)."
+        },
+        {
+          "id": 98,
+          "topic": "Defence – Institutions",
+          "question": "The motto of the National Defence Academy is:",
+          "options": {
+            "A": "'Service Before Self'",
+            "B": "'Nabhah Sparsham Deeptam'",
+            "C": "'Sarvatra Vijay'",
+            "D": "'Balidan Param Dharma'"
+          },
+          "correct_answer": "A",
+          "explanation": "The supplied answer key marks A ('Service Before Self')."
+        },
+        {
+          "id": 100,
+          "topic": "Science and Technology – Nobel Prize",
+          "question": "The 2024 Nobel Prize in Physics was awarded for foundational discoveries and inventions enabling machine learning with:",
+          "options": {
+            "A": "Quantum circuits",
+            "B": "Artificial neural networks",
+            "C": "Symbolic AI",
+            "D": "Genetic algorithms"
+          },
+          "correct_answer": "B",
+          "explanation": "The supplied answer key marks B (Artificial neural networks)."
+        }
+      ]
+    },
+    {
+      "section_name": "Reasoning",
+      "total_questions": 24,
+      "total_marks": 24,
+      "questions": [
+        {
+          "id": 4,
+          "topic": "Non-verbal Reasoning – Dot Situation",
+          "question": "[Dot Situation] Dot-1 lies inside the rectangle and circle but outside the triangle; Dot-2 lies in the region common to all three shapes. Choose the option that maintains the same dot conditions.",
+          "options": {
+            "A": "Circle inside triangle, rectangle disjoint",
+            "B": "Triangle, circle and rectangle mutually intersecting with a common region",
+            "C": "Rectangle enclosing all shapes with no intersection",
+            "D": "Circle tangent to triangle, rectangle isolated"
+          },
+          "correct_answer": "B",
+          "explanation": "The required diagram must provide a region common to rectangle and circle but outside the triangle, and a separate region common to all three. Answer key: B."
+        },
+        {
+          "id": 8,
+          "topic": "Coding-Decoding",
+          "question": "In a certain code, MISSILE → 13-9-19-19-9-12-5 and RADAR → 18-1-4-1-18. How will PILOT be coded?",
+          "options": {
+            "A": "16-9-12-15-20",
+            "B": "16-9-11-15-20",
+            "C": "17-9-12-15-20",
+            "D": "16-9-12-14-20"
+          },
+          "correct_answer": "A",
+          "explanation": "Each letter is replaced by its alphabetical position: P=16, I=9, L=12, O=15, T=20."
+        },
+        {
+          "id": 12,
+          "topic": "Syllogism",
+          "question": "Statements: (1) All UAVs are aerial platforms. (2) Some aerial platforms are armed. (3) No armed platform is unmanned. Conclusions: I. Some UAVs are armed. II. Some aerial platforms are not unmanned. III. No UAV is armed.",
+          "options": {
+            "A": "Only I follows",
+            "B": "Only II follows",
+            "C": "Only III follows",
+            "D": "Both II and III follow"
+          },
+          "correct_answer": "D",
+          "explanation": "Some aerial platforms are armed, and no armed platform is unmanned; therefore some aerial platforms are not unmanned. The key marks D."
+        },
+        {
+          "id": 16,
+          "topic": "Non-verbal Reasoning – Matrix",
+          "question": "[Visual Matrix] Study the 3×3 figure matrix. Each row shows a triangle with increasing number of inner strokes. Identify the missing figure.",
+          "options": {
+            "A": "Triangle with three inner strokes and a dot",
+            "B": "Triangle with three inner strokes",
+            "C": "Triangle with two strokes only",
+            "D": "Inverted triangle with cross-hatch"
+          },
+          "correct_answer": "B",
+          "explanation": "The pattern in the matrix determines the missing triangle figure. Answer key: B."
+        },
+        {
+          "id": 20,
+          "topic": "Blood Relations",
+          "question": "Pointing to a woman, Ravi said, “She is the daughter of the only son of my grandmother's husband.” How is Ravi related to that woman?",
+          "options": {
+            "A": "Uncle",
+            "B": "Brother",
+            "C": "Father",
+            "D": "Cousin"
+          },
+          "correct_answer": "B",
+          "explanation": "The only son of Ravi's grandmother's husband is Ravi's father; that man's daughter is Ravi's sister. The key marks B."
+        },
+        {
+          "id": 24,
+          "topic": "Coding-Decoding",
+          "question": "In a code, BRAVO is written as ETDYR (each letter shifted +3). How is ALPHA written?",
+          "options": {
+            "A": "DOSKD",
+            "B": "DOSKC",
+            "C": "DPSKD",
+            "D": "COSKD"
+          },
+          "correct_answer": "A",
+          "explanation": "Shift each letter in ALPHA forward by three positions: A→D, L→O, P→S, H→K, A→D."
+        },
+        {
+          "id": 28,
+          "topic": "Non-verbal Reasoning – Paper Folding",
+          "question": "[Paper Folding] A square sheet is folded along its horizontal centre, then along its vertical centre. Two triangular punches and one circular punch are made in the folded quadrant. When unfolded, how many total punches appear?",
+          "options": {
+            "A": "4 circles and 8 triangles",
+            "B": "2 circles and 4 triangles",
+            "C": "8 circles and 4 triangles",
+            "D": "4 circles and 4 triangles"
+          },
+          "correct_answer": "A",
+          "explanation": "Two folds create four layers/quarter-symmetry. Each punch is replicated four times: 4 circles and 8 triangles."
+        },
+        {
+          "id": 32,
+          "topic": "Direction and Distance",
+          "question": "An airman starts at his base, walks 30 m East, turns right and walks 40 m, turns right and walks 50 m, then turns right and walks 40 m. How far is he from the starting point and in which direction?",
+          "options": {
+            "A": "20 m West",
+            "B": "20 m East",
+            "C": "10 m West",
+            "D": "Same point"
+          },
+          "correct_answer": "A",
+          "explanation": "The north-south movements cancel. Net east-west displacement is 30 m east then 50 m west, leaving 20 m west."
+        },
+        {
+          "id": 36,
+          "topic": "Classification",
+          "question": "Find the odd one out:",
+          "options": {
+            "A": "Ashoka Chakra",
+            "B": "Kirti Chakra",
+            "C": "Shaurya Chakra",
+            "D": "Vir Chakra"
+          },
+          "correct_answer": "D",
+          "explanation": "The supplied answer key marks D (Vir Chakra); the other three are peacetime gallantry awards."
+        },
+        {
+          "id": 40,
+          "topic": "Ranking and Order",
+          "question": "In a row of 40 cadets, cadet P is 12th from the left and cadet Q is 15th from the right. How many cadets are seated between P and Q?",
+          "options": {
+            "A": "12",
+            "B": "13",
+            "C": "14",
+            "D": "11"
+          },
+          "correct_answer": "B",
+          "explanation": "Q is 26th from the left (40−15+1). Between positions 12 and 26 are 13 cadets."
+        },
+        {
+          "id": 44,
+          "topic": "Venn Diagrams",
+          "question": "[Venn Diagram] Which diagram best represents: Officers, Instructors, Pilots (some officers are instructors; some pilots are instructors; some officers are pilots)?",
+          "options": {
+            "A": "Three mutually disjoint circles",
+            "B": "Three mutually intersecting circles",
+            "C": "One large circle enclosing two disjoint circles",
+            "D": "Three concentric circles"
+          },
+          "correct_answer": "B",
+          "explanation": "All three groups may overlap pairwise, so three mutually intersecting circles best represent the statement."
+        },
+        {
+          "id": 53,
+          "topic": "Number Series",
+          "question": "Find the missing term: 5, 11, 23, 47, 95, ?",
+          "options": {
+            "A": "191",
+            "B": "190",
+            "C": "189",
+            "D": "193"
+          },
+          "correct_answer": "A",
+          "explanation": "Each term is previous term ×2 +1; 95×2+1 = 191."
+        },
+        {
+          "id": 56,
+          "topic": "Analogy",
+          "question": "Choose the correct analogy: Squadron : Aircraft :: Battalion : ?",
+          "options": {
+            "A": "Rifle",
+            "B": "Soldiers",
+            "C": "Tanks",
+            "D": "Uniform"
+          },
+          "correct_answer": "B",
+          "explanation": "A squadron is a military unit of aircraft; a battalion is a military unit of soldiers."
+        },
+        {
+          "id": 57,
+          "topic": "Non-verbal Reasoning – Embedded Figures",
+          "question": "[Embedded Figure] Identify the option in which the target shape (a triangle with a vertical bisector and diagonal cross) is embedded intact.",
+          "options": {
+            "A": "Hexagon with rotated triangle",
+            "B": "Star polygon with an internal triangle and vertical bisector",
+            "C": "Pentagon with cross-hatch",
+            "D": "Concentric squares"
+          },
+          "correct_answer": "B",
+          "explanation": "The supplied answer key marks B; the target figure is embedded in option B."
+        },
+        {
+          "id": 61,
+          "topic": "Classification – Defence",
+          "question": "Choose the word least like the others:",
+          "options": {
+            "A": "Rustom-II",
+            "B": "Ghatak",
+            "C": "TAPAS",
+            "D": "Nag"
+          },
+          "correct_answer": "D",
+          "explanation": "The supplied answer key marks D (Nag), the only missile among the listed systems."
+        },
+        {
+          "id": 65,
+          "topic": "Coded Blood Relations",
+          "question": "If P + Q means P is son of Q; P × Q means P is wife of Q; P − Q means P is brother of Q; which of the following shows that A is aunt of D?",
+          "options": {
+            "A": "A × B − C + D",
+            "B": "A − B × C + D",
+            "C": "A × B + C − D",
+            "D": "A − B + C × D"
+          },
+          "correct_answer": "A",
+          "explanation": "The supplied answer key marks A."
+        },
+        {
+          "id": 69,
+          "topic": "Coding-Decoding",
+          "question": "In a code, GENERAL → HDNFQBK (each letter alternately +1 and −1). How is MAJOR coded?",
+          "options": {
+            "A": "NBIPQ",
+            "B": "NZKNQ",
+            "C": "NAJPS",
+            "D": "NAKPQ"
+          },
+          "correct_answer": "B",
+          "explanation": "Apply the alternating +1, −1 shifts to the letters of MAJOR. The supplied answer key marks B."
+        },
+        {
+          "id": 73,
+          "topic": "Non-verbal Reasoning – Figure Analogy",
+          "question": "[Figure Analogy] A : square inside circle :: B : dashed circle with rotated shaded diamond :: C : triangle inside hexagon :: D : ?",
+          "options": {
+            "A": "Solid hexagon with dashed triangle",
+            "B": "Dashed hexagon with rotated shaded triangle",
+            "C": "Circle inside rotated triangle",
+            "D": "Two overlapping hexagons"
+          },
+          "correct_answer": "A",
+          "explanation": "The supplied answer key marks A; choose the option preserving the visual transformation pattern."
+        },
+        {
+          "id": 77,
+          "topic": "Blood Relations",
+          "question": "Pointing to a photograph, Suresh said, “She is the mother of my son's wife's daughter.” How is the woman related to Suresh?",
+          "options": {
+            "A": "Sister-in-law",
+            "B": "Daughter-in-law",
+            "C": "Granddaughter",
+            "D": "Wife"
+          },
+          "correct_answer": "A",
+          "explanation": "The daughter of Suresh's son's wife is Suresh's granddaughter; her mother is his daughter-in-law. The key marks A, which conflicts with the usual relationship interpretation."
+        },
+        {
+          "id": 80,
+          "topic": "Alphanumeric Series",
+          "question": "Choose the correct sequence: A5T, C10R, E17P, G26N, ?",
+          "options": {
+            "A": "I37L",
+            "B": "I36K",
+            "C": "I35L",
+            "D": "H37M"
+          },
+          "correct_answer": "A",
+          "explanation": "Letters advance by two and retreat by two; numbers increase by 5, 7, 9, then 11, giving I37L."
+        },
+        {
+          "id": 84,
+          "topic": "Seating Arrangement – Circular",
+          "question": "[Circular Seating] Six officers A, B, C, D, E, F sit around a circular table facing the centre. B is second to the right of A; C is opposite A; E is between D and F. Who sits to the immediate left of C?",
+          "options": {
+            "A": "D",
+            "B": "E",
+            "C": "F",
+            "D": "B"
+          },
+          "correct_answer": "B",
+          "explanation": "The supplied answer key marks B (E)."
+        },
+        {
+          "id": 88,
+          "topic": "Direction Sense",
+          "question": "If South becomes North-East, and North becomes South-West, then what does West become?",
+          "options": {
+            "A": "North-West",
+            "B": "South-East",
+            "C": "North",
+            "D": "South"
+          },
+          "correct_answer": "B",
+          "explanation": "The stated mapping is a 135° rotation; West correspondingly becomes South-East. Answer key: B."
+        },
+        {
+          "id": 92,
+          "topic": "Number Pair Classification",
+          "question": "Find the odd pair:",
+          "options": {
+            "A": "27 – 3",
+            "B": "125 – 5",
+            "C": "64 – 4",
+            "D": "343 – 8"
+          },
+          "correct_answer": "A",
+          "explanation": "The first three pairs show a number and its cube root; 343 is 7³, not 8³."
+        },
+        {
+          "id": 97,
+          "topic": "Number Series",
+          "question": "Complete the series: 4, 9, 20, 43, 90, ?",
+          "options": {
+            "A": "185",
+            "B": "181",
+            "C": "183",
+            "D": "187"
+          },
+          "correct_answer": "A",
+          "explanation": "The pattern is ×2+1, ×2+2, ×2+3, ×2+4; next is 90×2+5 = 185."
+        }
+      ]
+    }
+  ],
+  "marking_scheme": {
+    "correct": 3,
+    "incorrect": -1,
+    "unattempted": 0
+  },
+  "duration_minutes": 120
+}
